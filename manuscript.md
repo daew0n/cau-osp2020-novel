@@ -114,7 +114,7 @@
 오랜만의 일탈에서 발견한 금덩어리 같은 참치캔인데 다른 고양이에게 뺏길 수는 없기 때문이다.
 검은 고양이도 참치캔을 쉽게 포기할 수 없었는지 날카로운 이를 드러내며 그르렁거렸다.
 
-<img scr = "https://postfiles.pstatic.net/MjAyMDExMTJfMzIg/MDAxNjA1MTkwNDc1MTA0.gllYH6yeLhlrQBvQLYmaytT6YE5anQdQNmRXhrPpNfYg.mruGApaOlWdE-hJ5f3Ve5AGQjI6Z-i_vipDc4pnpYaYg.PNG.eunyoungyi/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%981.png?type=w773">
+<img src = "https://postfiles.pstatic.net/MjAyMDExMTJfMzIg/MDAxNjA1MTkwNDc1MTA0.gllYH6yeLhlrQBvQLYmaytT6YE5anQdQNmRXhrPpNfYg.mruGApaOlWdE-hJ5f3Ve5AGQjI6Z-i_vipDc4pnpYaYg.PNG.eunyoungyi/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%981.png?type=w773">
 
 ```
 어라? 이 녀석 봐라. 하지만 눈앞에 있는 참치캔을 뺏길 수는 없지.
