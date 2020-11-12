@@ -127,6 +127,8 @@
 이 참치캔의 모서리가 뭉툭해서 망정이지 만약 날카로웠다면 혀에 큰 부상을 입었을 것이다.
 이런 위험한 상황도 모른 채 마냥 배가 불러 기분이 좋아진 톰은 가벼운 발걸음으로 길을 나섰다.
 
+<img src = "https://blogfiles.pstatic.net/MjAyMDExMTJfMTYx/MDAxNjA1MTg2OTUyMDQ0.iQMJ9Qo2fJgyI9vZqyOIH5FdOXsQyybAo07kuK04r6Qg.H_5TafM0wKI6_1abpEow2-p_Wble4Dkw_TUNM953n3Ug.PNG.warm10216/%EC%B0%B8%EC%B9%98%EC%BA%94.png?type=w1">
+
 ```
 어디로 가볼까나~
 ```
