@@ -246,7 +246,10 @@
 그리고 쥐를 덮친 그 순간, 톰은 깜짝 놀라 바로 뒤로 물러섰고 두 눈 또한 커졌다.
 <img src="https://cdn.pixabay.com/photo/2014/01/15/16/22/cat-245750_1280.jpg">
 그것은 쥐가 아니라 거대한 개였다.
-개는 하얗고 뻣뻣한 털에 사나운 이빨을 드러내며 침을 뚝뚝 흘리고 있었다.
+
+개는 하얗고 뻣뻣한 털에 사나운 이빨을 드러내며 으르렁 거렸다.
+<img src="https://postfiles.pstatic.net/MjAyMDExMTNfMTE5/MDAxNjA1MjQ4NjYyNDIx.iWhrrWaGkPfN456AKFZE3boDE7uyYOPtTH2KIi63xoIg.eZYFwj4uRFnnjh724S0IILHOSvQuoVqxUwNB_TZ4Tokg.JPEG.hanariyoung/%EC%8A%AC%EB%A7%81%ED%82%A4.jpg?type=w966">
+
 하룻고양이 개 무서운 줄 모르고 덮친 것이었다.
 개는 자신의 꿀같은 낮잠을 방해한 톰에게 굉장히 화가난 상태로 으르렁거렸다.
 오래 사냥을 쉬었던 탓일까, 예상치 못한 상황에 톰의 몸은 일순간 굳고 말았다.
