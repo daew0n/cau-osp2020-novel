@@ -653,6 +653,9 @@
 아앗 저건 뭐야! 도둑고양이 잡아라!
 ```
 소고기 더미의 카트를 끌고 가던 정육점 아저씨는 달려와 소고기를 낚아채는 톰을 보며 소리쳤다.
+
+<img src = "https://postfiles.pstatic.net/MjAyMDExMTNfMjA3/MDAxNjA1MjU0MDEyOTA5.PArYo4LfKtI4yuOC2b7T5Ouh7jpgutYSS4tpo_o7W6sg.f9UiYfnrtJY9OFWGA8UrCWMOST3nkkwv36Ygcd5NRxYg.PNG.eunyoungyi/%EC%A0%84%EA%B0%9C_%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80_%EC%A0%95%EC%9C%A1%EC%A0%90%EC%95%84%EC%A0%80%EC%94%A8(%EC%88%98).png?type=w773">
+
 소고기 더미에서 결국 한 덩이를 물고 달아나는 톰.
 소고기는 집에서도 자주 먹을 수 없는 음식이었다.
 오랜만에 신선한 소고기를 맛볼 수 있다는 생각에 톰은 신이 나서 도망쳤다.
