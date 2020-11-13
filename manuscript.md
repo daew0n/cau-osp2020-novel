@@ -756,6 +756,9 @@
 길고양이는 또다시 불쌍한 연기를 하며 앞발로 소고기 전체를 가져가려고 하자, 갑자기 톰이 자신이 건넨 소고기를 세게 붙잡았다.
 
 길고양이는 깜짝 놀라 톰을 쳐다보았다.
+
+<img src="https://blogfiles.pstatic.net/MjAyMDExMTRfMTkz/MDAxNjA1MjgzNzIzMTk2.QGytadDC1K3N7-a-xs4RL2dkLN3zk4jILlyy_k1e3Jcg.uqO58Jp5Y1RdTtTaUD4qJE8y6nAf7v8NZz566zonekcg.JPEG.sihumji00/%EA%B3%A0%EC%96%91%EC%9D%B4.jpg">
+
 ```
 왜...그래?
 ```
