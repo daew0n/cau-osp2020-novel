@@ -384,9 +384,7 @@
 
 터덜터덜 길을 걷던 톰은 길거리에 버려진 곰인형 하나를 발견했다.
 
-
-![곰](https://i.esdrop.com/d/jomQcApAjr.jpg)
-
+![abandoned_teddy](https://i.esdrop.com/d/lwqELBce8P.jpg)
 
 
 
