@@ -578,7 +578,7 @@
 집에 도착한 톰은 내심 자신을 기다리고 걱정했을 집사들을 기대하며 문밖을 서성였다.
 그런데 뭔가 이상했다.
 그의 집에는 분명 환하게 불이 켜져 있었고 안에서는 집사들의 목소리가 들렸지만 그를 찾는 듯한 소리는 들리지 않았다.
-
+<Img src = "https://postfiles.pstatic.net/MjAyMDExMTVfMTA4/MDAxNjA1NDE0Njg1NzEy.LCNcZMHKmlhcQIpXRz26K4kVHNFid1aHiJQbMCcYbP8g.Sj-D9Rp9cwCyVOhNXAPA7SzAqqtBkqzwi6eGMOT0xaQg.PNG.lkm778u/image.png?type=w966">
 ```
 이상하다? 왜 나를 찾지 않는 거지?
 분명히 내가 집을 나간 지 반나절이 지났는데 아무도 나를 찾지 않는다는 건 아무도 나에게 관심이 없다는 뜻인 걸까?
