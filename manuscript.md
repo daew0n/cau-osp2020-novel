@@ -11,7 +11,8 @@
 흘러나오는 거리의 노래와 거리의 소음이 귓바퀴에서 만나 맴돌다 사라져버린다.
 해가 시선 너머로 내려앉는다.
 
-<img src="https://cdn.pixabay.com/photo/2017/12/09/21/33/sunset-3008779_960_720.jpg">
+<!-- 노을 사진 -->
+<p align="center"><img src="https://cdn.pixabay.com/photo/2017/12/09/21/33/sunset-3008779_960_720.jpg" width="50%" height="50%">
 
  여기, 도시의 소음을 지긋이 바라보는 창틀의 고양이가 있다.
 노란 눈을 가진, 검은색과 회색의 털로 이루어진 줄무늬 고양이. 
@@ -50,7 +51,8 @@
 타오르는 노을을 뒤로하고 지저분하고 칙칙한 방을 보고 있자니 기분은 언제 그랬냐는 듯이 가라앉았다. 
 톰은 어젯밤 늦게까지 맥주를 마시며 유튜브를 보던 집사의 모습이 떠올랐다.
 
-![KakaoTalk_20201114_190133400_02](https://user-images.githubusercontent.com/74239275/99144821-6f643280-26ac-11eb-89d3-776d2878947d.jpg)
+<!-- 밤 늦게 유튜브 보는 집사 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74239275/99144821-6f643280-26ac-11eb-89d3-776d2878947d.jpg" width="50%" height="50%">
 
 책상 위에 올라간 자신에게 관심을 주지 않고 책상을 치우지도 않던 집사를 생각하며, 톰은 방을 나와 거실로 향했다.
 거실에는 오늘 아침 분주했던 흔적이 그대로 남아 있었다. 
@@ -74,9 +76,8 @@
 고양이를 키워본 적 없어 허둥지둥대던 집사의 모습이 어린 톰의 눈에는 조금 이상해 보였지만 그래도 그가 자신을 얼마나 많이 아끼는지는 충분히 느낄 수 있었다.
 특히 가족과 보내는 시간 중 톰이 가장 좋아하는 시간은 아침이었다.
 
-
-![KakaoTalk_20201114_184637065_02](https://user-images.githubusercontent.com/74239275/99144850-c79b3480-26ac-11eb-9384-650261406c12.jpg)
-
+<!-- 아침에 캣타워에 누워있는 톰 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74239275/99144850-c79b3480-26ac-11eb-9384-650261406c12.jpg" width="50%" height="50%">
 
 아침햇살에 눈이 부셔서 일어나면, 한 침대에 온 가족이 뒤엉켜 자고 있는 모습.
 그걸 잠깐 동안 바라보는 것은 가족과 톰이 함께한 시간이 가지는 의미가 무엇인지를 상기시켜주었다.
@@ -93,7 +94,8 @@
 매일 같이 톰과 놀면서 서로에 대한 공감대가 형성되고, 책임감을 가지고 같이 톰을 보살피는 과정에서 우애가 싹텄다. 
 톰이 두 자매가 사이좋게 될 수 있도록 한 매개체가 된 것이다.
 
-![KakaoTalk_20200930_015548342_02](https://user-images.githubusercontent.com/74303668/99151618-dd761d00-26df-11eb-83b3-dea03723186d.jpg)
+<!-- 상자 안에 앉아있는 톰 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74303668/99151618-dd761d00-26df-11eb-83b3-dea03723186d.jpg" width="50%" height="50%">
 
 톰은 의미 모를 한숨을 내쉬며 한마디를 내뱉었다.
 
@@ -134,7 +136,9 @@
 ```
 나도 이젠 많이 변했구나.
 ```
-![KakaoTalk_20201115_041753409](https://user-images.githubusercontent.com/74279917/99155363-96495580-26fa-11eb-92f8-d7fa4b3b5bf0.jpg)
+
+<!-- 창 밖을 보는 톰 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74279917/99155363-96495580-26fa-11eb-92f8-d7fa4b3b5bf0.jpg" width="50%" height="50%">
 
 예민하게 지낼 필요가 없는 생활은 톰의 외모뿐만 아니라 성격에도 많은 변화를 주었다.
 영역 싸움을 위해 으르렁대고, 밥을 차지하기 위해 사람들에게 애교를 떨고, 최대한 따뜻한 곳을 찾으려 골목길을 돌아다녔던 고양이는 이제 없다.
@@ -172,8 +176,9 @@
 해가 질 무렵이었지만 집 안에는 톰 말고는 아무도 없다. 주위는 어둡고 조용했다.
 톰은 밥그릇을 뒤적여보기도 하고, 장난감을 이리저리 발로 차보기도 했다.
 하지만 고요하고 적막한 집안에는 톰만이 있을 뿐이었다.
-![KakaoTalk_20201115_045117932](https://user-images.githubusercontent.com/74279917/99155782-761b9580-26fe-11eb-80c5-a96b487f4f47.jpg)
 
+<!-- 고요한 집에 앉아있는 톰 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74279917/99155782-761b9580-26fe-11eb-80c5-a96b487f4f47.jpg" width="50%" height="50%">
 
 톰은 자신이 사는 넓고 적막한 집을 한 바퀴 휙 둘러보며 생각했다.
 
@@ -201,7 +206,8 @@
 
 집사들에게는 걱정을 끼쳐 조금은 미안하지만, 오늘만큼은 작은 일탈을 해야겠다.
 
-<img src="https://images.unsplash.com/photo-1580226397016-d2020ed03290?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80">
+<!-- 창 밖으로 나가려는 톰 사진 -->
+<p align="center"><img src="https://images.unsplash.com/photo-1580226397016-d2020ed03290?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80" width="50%" height="50%">
 
 톰과 그의 가족의 집은 1층이었는데 오늘은 집사가 창문을 방충망이 없는 곳으로 열어두고 나간 듯 했다.
 운이 좋게도 말이다. 
@@ -261,7 +267,8 @@
 
 검은 고양이도 참치캔을 쉽게 포기할 수 없었는지 날카로운 이를 드러내며 그르렁거렸다.
 
-<img src = "https://postfiles.pstatic.net/MjAyMDExMTJfMzIg/MDAxNjA1MTkwNDc1MTA0.gllYH6yeLhlrQBvQLYmaytT6YE5anQdQNmRXhrPpNfYg.mruGApaOlWdE-hJ5f3Ve5AGQjI6Z-i_vipDc4pnpYaYg.PNG.eunyoungyi/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%981.png?type=w773">
+<!-- 검은 고양이와 톰이 참치캔을 두고 서로 경계하는 사진 -->
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMTJfMzIg/MDAxNjA1MTkwNDc1MTA0.gllYH6yeLhlrQBvQLYmaytT6YE5anQdQNmRXhrPpNfYg.mruGApaOlWdE-hJ5f3Ve5AGQjI6Z-i_vipDc4pnpYaYg.PNG.eunyoungyi/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%981.png?type=w773" width="50%" height="50%">
 
 ```
 어라? 이 녀석 봐라. 하지만 눈 앞에 있는 참치캔을 뺏길 수는 없지.
@@ -295,7 +302,8 @@
 하지만 톰이 이를 알리 없지 않은가.
 마냥 배가 불러 기분이 좋아진 톰은 가벼운 발걸음으로 길을 나섰다.
 
-<img src = "https://blogfiles.pstatic.net/MjAyMDExMTJfMTYx/MDAxNjA1MTg2OTUyMDQ0.iQMJ9Qo2fJgyI9vZqyOIH5FdOXsQyybAo07kuK04r6Qg.H_5TafM0wKI6_1abpEow2-p_Wble4Dkw_TUNM953n3Ug.PNG.warm10216/%EC%B0%B8%EC%B9%98%EC%BA%94.png?type=w1">
+<!-- 참치캔을 다 먹은 후 떠나는 톰의 사진  -->
+<p align="center"><img src="https://blogfiles.pstatic.net/MjAyMDExMTJfMTYx/MDAxNjA1MTg2OTUyMDQ0.iQMJ9Qo2fJgyI9vZqyOIH5FdOXsQyybAo07kuK04r6Qg.H_5TafM0wKI6_1abpEow2-p_Wble4Dkw_TUNM953n3Ug.PNG.warm10216/%EC%B0%B8%EC%B9%98%EC%BA%94.png?type=w1" width="50%" height="50%">
 
 ```
 어디로 가볼까나~
@@ -347,7 +355,8 @@
 
 그때, 귓가에 들리는 소리에 동공을 좁혔다. 잠시 동안 신경을 곤두세운다. 
 
-<img src="https://cdn.pixabay.com/photo/2018/05/04/16/50/cat-3374422_1280.jpg">
+<!-- 톰이 동공을좁히는 사진 -->
+<p align="center"><img src="https://cdn.pixabay.com/photo/2018/05/04/16/50/cat-3374422_1280.jpg" width="50%" height="50%">
 
 주변을 둘러보니 저 멀리 꼬리 하나가 보인다.
 털이 거의 없는 갈색빛의 꼬리다.
@@ -375,12 +384,14 @@
 움직이던 꼬리의 뒤를 쫓다 꼬리가 멈추었을 때, 톰은 잽싸게 쥐의 꼬리를 밟았다.
 그리고 쥐를 덮친 그 순간, 톰은 화들짝 놀라 두 눈을 크게 뜬 채 뒷걸음질을 칠 수 밖에 없었다. 
 
-<img src="https://cdn.pixabay.com/photo/2014/01/15/16/22/cat-245750_1280.jpg">
+<!-- 개를 보고 놀라는 톰의 사진 -->
+<p align="center"><img src="https://cdn.pixabay.com/photo/2014/01/15/16/22/cat-245750_1280.jpg" width="50%" height="50%">
 
 그것은 쥐가 아니라 거대한 개인 것이 아닌가.
 개는 하얗고 뻣뻣한 털에 사나운 이빨을 드러내며 톰을 향해 으르렁거렸다.
 
-<img src="https://postfiles.pstatic.net/MjAyMDExMTNfMTE5/MDAxNjA1MjQ4NjYyNDIx.iWhrrWaGkPfN456AKFZE3boDE7uyYOPtTH2KIi63xoIg.eZYFwj4uRFnnjh724S0IILHOSvQuoVqxUwNB_TZ4Tokg.JPEG.hanariyoung/%EC%8A%AC%EB%A7%81%ED%82%A4.jpg?type=w966">
+<!-- 개의 모습 사진 -->
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMTNfMTE5/MDAxNjA1MjQ4NjYyNDIx.iWhrrWaGkPfN456AKFZE3boDE7uyYOPtTH2KIi63xoIg.eZYFwj4uRFnnjh724S0IILHOSvQuoVqxUwNB_TZ4Tokg.JPEG.hanariyoung/%EC%8A%AC%EB%A7%81%ED%82%A4.jpg?type=w966" width="50%" height="50%">
 
 하룻고양이 개 무서운 줄 모르고 덮친 것이었다.
 개는 자신의 꿀 같은 낮잠을 방해한 톰에게 굉장히 화가 나 있었다. 
@@ -459,10 +470,8 @@
 지금은 그로부터 몇 년이 지난 시점. 과거의 기억들이 미화되어 그들 사이에는 아련하면서도 알 수 없는 분위기가 흘렀다. 
 항상 쫓고 쫓기면서 하루하루를 보내던 친구를 오랜만에 마주하니 미움보단 반가움이 앞섰던 것이다.
 
-
-
-![20205506](https://user-images.githubusercontent.com/74277067/99150578-f4fdd780-26d8-11eb-8958-94405f9687d4.jpg)
-
+<!-- 제리의 도움을 받아 개로부터 도망치는 톰의 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74277067/99150578-f4fdd780-26d8-11eb-8958-94405f9687d4.jpg" width="50%" height="50%">
 
 감동적인 상봉이었지만, 톰과 제리는 재회의 기쁨을 나눌 시간이 없었다. 
 그들의 뒤에는 여전히 사나운 개가 이빨을 드러내며 씩씩거리고 있었다.
@@ -480,8 +489,9 @@
 톰은 간발의 차로 개에게 잡히지 않고 구멍을 통과했고 화가 난 개는 구멍 앞에서 한참을 씩씩거리다 돌아갔다. 
 그들은 저마다 숨을 고르며 못다한 재회의 기쁨을 다시 나누었다.
 
-
-![cat-2332202_1920](https://user-images.githubusercontent.com/74192997/98854398-d95abd00-249d-11eb-94c9-3af7a98fbc0d.jpg)
+<!-- 톰과 제리 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74192997/98854398-d95abd00-249d-11eb-94c9-3af7a98fbc0d.jpg" width="50%" height="50%">
+ 
 
 ``` 
 휴~ 다행이야.
@@ -578,7 +588,7 @@
 집에 도착한 톰은 내심 자신을 기다리고 걱정했을 집사들을 기대하며 문밖을 서성였다.
 그런데 뭔가 이상했다.
 그의 집에는 분명 환하게 불이 켜져 있었고 안에서는 집사들의 목소리가 들렸지만 그를 찾는 듯한 소리는 들리지 않았다.
-
+<Img src = "https://postfiles.pstatic.net/MjAyMDExMTVfMTA4/MDAxNjA1NDE0Njg1NzEy.LCNcZMHKmlhcQIpXRz26K4kVHNFid1aHiJQbMCcYbP8g.Sj-D9Rp9cwCyVOhNXAPA7SzAqqtBkqzwi6eGMOT0xaQg.PNG.lkm778u/image.png?type=w966">
 ```
 이상하다? 왜 나를 찾지 않는 거지?
 분명히 내가 집을 나간 지 반나절이 지났는데 아무도 나를 찾지 않는다는 건 아무도 나에게 관심이 없다는 뜻인 걸까?
@@ -613,7 +623,9 @@
 버려진 곰 인형은 눈이 한쪽 뜯어져 있었고 목에 달린 리본은 찢어져 있었다.
 그리고 곰 인형은 이미 버려진 지 오래된 듯 여기저기에 검게 때가 있었다.
 그런 곰 인형에 톰은 주인에게 버려졌다는 것에 동질감을 느꼈다.
-![abandoned_teddy](https://i.esdrop.com/d/lwqELBce8P.jpg)
+
+<!-- 버려진 곰 인형 사진 -->
+<p align="center"><img src="https://i.esdrop.com/d/lwqELBce8P.jpg" width="50%" height="50%">
 
 ```
 너도 나와 비슷한 처지에 놓여있구나...
@@ -745,7 +757,8 @@
 선물상자는 버린지 얼마 안된듯, 깔끔한 모습이었고 톰이 들어가기에 딱 맞는 크기였다.
 이들의 기대는 더욱 부풀어져만 갔다.
 
-![선물상자](https://i.esdrop.com/d/CYGZzf8b9u.jpg)
+<!-- 선물 상자 사진 -->
+<p align="center"><img src="https://i.esdrop.com/d/CYGZzf8b9u.jpg" width="50%" height="50%">
 
 ```
 자, 이제 선물상자는 준비됐어. 
@@ -771,7 +784,8 @@
 뭐야 너였어? 선물 상자에는 어떻게 들어간 거람. 장난하지 말고 얼른 들어와~
 ```
 
-![KakaoTalk_20201115_023736873](https://user-images.githubusercontent.com/74300076/99154065-57ae9d80-26f0-11eb-9166-26d158770ae5.jpg)
+<!-- 현관 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74300076/99154065-57ae9d80-26f0-11eb-9166-26d158770ae5.jpg" width="50%" height="50%">
 
 문을 열어 두고 집에 들어가는 집사. 
 그들은 정말로 반나절 동안 톰이 없어졌다는 것을 모르는 걸까?  
@@ -862,7 +876,8 @@
 
 톰과 제리의 즐거운 이세계 모험은 지금부터 시작된다.
 
-![catgoing](https://user-images.githubusercontent.com/74340048/98936831-e1137380-2528-11eb-8267-0b99e8ecaac3.jpg)
+<!-- 톰과 제리가 모험을 떠나는 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74340048/98936831-e1137380-2528-11eb-8267-0b99e8ecaac3.jpg" width="50%" height="50%">
 
 ```
 근데 톰! 이 세계라는 곳을 우리가 찾아갈 수는 있겠지?
@@ -882,7 +897,9 @@
 다시 길가를 바라보았다. 
 아까와 사뭇 다른 느낌이다.
 
-![가로등](https://cdn.pixabay.com/photo/2014/01/12/18/34/warsaw-243005_1280.jpg)
+<!-- 가로등 사진 -->
+<p align="center"><img src="https://cdn.pixabay.com/photo/2014/01/12/18/34/warsaw-243005_1280.jpg" width="50%" height="50%">
+
 가로등의 불이 하나둘 켜지기 시작하였고, 거리의 소음도 점차 줄어들었다.    
 아이들의 웃음소리로 가득 차 있던 놀이터엔 적막만이 맴돌았다.   
 집에서 나온 톰과 제리는 적막한 거리를 아무 대화 없이 계속 걸었다.
@@ -990,7 +1007,8 @@
 
 소고기 더미의 카트를 끌고 가던 정육점 아저씨는 달려와 소고기를 낚아채는 톰을 보며 소리쳤다. 정육점 아저씨는 톰을 향해 달려갔다. 하지만 카트 안에 있는 소고기를 생각해 몇 걸음 만에 다시 카트로 발을 돌렸다.
 
-<img src = "https://postfiles.pstatic.net/MjAyMDExMTNfMjA3/MDAxNjA1MjU0MDEyOTA5.PArYo4LfKtI4yuOC2b7T5Ouh7jpgutYSS4tpo_o7W6sg.f9UiYfnrtJY9OFWGA8UrCWMOST3nkkwv36Ygcd5NRxYg.PNG.eunyoungyi/%EC%A0%84%EA%B0%9C_%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80_%EC%A0%95%EC%9C%A1%EC%A0%90%EC%95%84%EC%A0%80%EC%94%A8(%EC%88%98).png?type=w773">
+<!-- 정육점에서 달아나는 톰 사진 -->
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMTNfMjA3/MDAxNjA1MjU0MDEyOTA5.PArYo4LfKtI4yuOC2b7T5Ouh7jpgutYSS4tpo_o7W6sg.f9UiYfnrtJY9OFWGA8UrCWMOST3nkkwv36Ygcd5NRxYg.PNG.eunyoungyi/%EC%A0%84%EA%B0%9C_%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80_%EC%A0%95%EC%9C%A1%EC%A0%90%EC%95%84%EC%A0%80%EC%94%A8(%EC%88%98).png?type=w773" width="50%" height="50%">
 
 소고기 더미에서 결국 한 덩이를 물고 달아나는 톰.
 소고기는 집에서도 자주 먹을 수 없는 음식이었다.
@@ -1000,7 +1018,8 @@
 톰은 아는 지름길로 잽싸게 도망쳤다.
 그렇게 한참을 도망치다 수풀로 들어가 소고기를 내려놓고 숨을 고르던 중 톰은 반짝이는 두 눈을 발견한다.
 
-<img src="https://cdn.pixabay.com/photo/2018/10/30/09/24/cat-3783172_1280.jpg">
+<!-- 낯선 고양이의 모습 사진 -->
+<p align="center"><img src="https://cdn.pixabay.com/photo/2018/10/30/09/24/cat-3783172_1280.jpg" width="50%" height="50%">
 
 낯선 고양이를 본 톰은 움찔했다.
 밝은 노란 털을 가진 고양이는 톰보다 2배는 더 커 보였다.
@@ -1057,7 +1076,8 @@
 사실 야생에 길들여져 모든 것이 익숙한 길고양이는 이 상황을 꿰뚫어 볼 수 있었다.
 길고양이에게 톰은 번듯하게 애완 묘로 자라 세상 물정을 잘 모를 만한 약한 존재였다. 그렇기에 이러한 점을 이용해 고기를 뺏어가려 접근한 것이었다.  
 
-<img src="https://cdn.pixabay.com/photo/2016/10/24/17/01/cat-1766674_1280.jpg">
+<!-- 길고양이의 불쌍한 모습 사진 -->
+<p align="center"><img src="https://cdn.pixabay.com/photo/2016/10/24/17/01/cat-1766674_1280.jpg" width="50%" height="50%">
 
 하지만, 톰도 어엿이 길고양이 시절을 겪었던 고양이었다.
 길에서 겪는 배고픔, 늦은 밤 차가운 길바닥, 종종 마주치는 나쁜 인간들을 잘 알고 있다는 뜻이었다.
@@ -1080,7 +1100,8 @@
 
 길고양이는 깜짝 놀라 톰을 쳐다보았다.
 
-<img src="https://blogfiles.pstatic.net/MjAyMDExMTRfMTkz/MDAxNjA1MjgzNzIzMTk2.QGytadDC1K3N7-a-xs4RL2dkLN3zk4jILlyy_k1e3Jcg.uqO58Jp5Y1RdTtTaUD4qJE8y6nAf7v8NZz566zonekcg.JPEG.sihumji00/%EA%B3%A0%EC%96%91%EC%9D%B4.jpg">
+<!-- 소고기 전체를 가져가려는 길고양이를 제지하는 톰 사진 -->
+<p align="center"><img src="https://blogfiles.pstatic.net/MjAyMDExMTRfMTkz/MDAxNjA1MjgzNzIzMTk2.QGytadDC1K3N7-a-xs4RL2dkLN3zk4jILlyy_k1e3Jcg.uqO58Jp5Y1RdTtTaUD4qJE8y6nAf7v8NZz566zonekcg.JPEG.sihumji00/%EA%B3%A0%EC%96%91%EC%9D%B4.jpg" width="50%" height="50%">
 
 ```
 왜...그래?
@@ -1173,8 +1194,8 @@
 나 같이 너랑 맨날 티격태격하던 사이가 아니면 몰라볼걸?
 ```
 
-
-![KakaoTalk_20201115_092337504](https://user-images.githubusercontent.com/74265263/99159889-5dbe7180-2724-11eb-8eb7-e36c84198f35.jpg)
+<!-- 제리가 톰에게 만난 길고양이가 잭이라는 것을 알려주는 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74265263/99159889-5dbe7180-2724-11eb-8eb7-e36c84198f35.jpg" width="50%" height="50%">
 
 톰은 길 고양이의 남루한 모습을 떠올리며 그가 자신이 알고 있던 잭이라고 확신하기 어려웠다. 하지만 제리의 생각은 톰과 달랐다. 제리는 확신에 찬 어조로 말했다.
 
@@ -1234,7 +1255,8 @@
 
 ## 위기
 
-![KakaoTalk_20201114_212242008](https://user-images.githubusercontent.com/74239275/99146981-55344f80-26c0-11eb-8721-c9a2f57fd5b6.jpg)
+<!-- 어두운 골목 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74239275/99146981-55344f80-26c0-11eb-8721-c9a2f57fd5b6.jpg" width="50%" height="50%">
 
 제리는 잭의 냄새를 맡으며 잭을 뒤쫓는다.
 네온사인이 가득했던 도시에서 가로등 빛도 잘 안 들어오는 음습한 골목길로 오게 됐다.
@@ -1267,6 +1289,7 @@
 ```
 그렇다면 설마 잭??
 ```
+
 ## 절정
 
 ## 결말
