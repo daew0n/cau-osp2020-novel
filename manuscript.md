@@ -412,7 +412,7 @@
 허허 고마워 포키. 다시 만날 때 인사하자구.
 ```
 소녀와 검정 고양이가 다시 미용실로 건너가고 톰은 혼자 남겨졌다. 
-배도 부르고 새로운 고양이 친구가 생긴것 같아 기분이 좋아진 톰은 가벼운 발걸음으로 길을 나섰다.
+배도 부르고 새로운 고양이 친구가 생긴 것 같아 기분이 좋아진 톰은 가벼운 발걸음으로 길을 나섰다.
 
 <!-- 참치캔을 다 먹은 후 떠나는 톰의 사진  -->
 <p align="center"><img src="https://blogfiles.pstatic.net/MjAyMDExMTJfMTYx/MDAxNjA1MTg2OTUyMDQ0.iQMJ9Qo2fJgyI9vZqyOIH5FdOXsQyybAo07kuK04r6Qg.H_5TafM0wKI6_1abpEow2-p_Wble4Dkw_TUNM953n3Ug.PNG.warm10216/%EC%B0%B8%EC%B9%98%EC%BA%94.png?type=w1" width="50%" height="50%">
