@@ -482,8 +482,13 @@
 <p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMTNfMTE5/MDAxNjA1MjQ4NjYyNDIx.iWhrrWaGkPfN456AKFZE3boDE7uyYOPtTH2KIi63xoIg.eZYFwj4uRFnnjh724S0IILHOSvQuoVqxUwNB_TZ4Tokg.JPEG.hanariyoung/%EC%8A%AC%EB%A7%81%ED%82%A4.jpg?type=w966" width="50%" height="50%">
 
 하룻고양이 개 무서운 줄 모르고 덮친 것이었다.
+개는 공터 주변에 있는 주인의 가게를 지키면서 살았다.
+하루 종일 가게를 지키다가 저녁이 되어서야 휴식을 가질 수 있었다.
+개 역시 공터가 자신에게 가장 편한 공간 중 하나이어서 일이 끝나고 공터에 와서 쉬었다.
+오늘도 가게를 하루 종일 지키다가 공터에 와서 쉬고 있는데 톰이 실수를 해버린 것이다.
 개는 자신의 꿀 같은 휴식을 방해한 톰에게 굉장히 화가 나 있었다. 
 오래 사냥을 쉬었던 탓일까, 예상치 못한 상황에 톰의 몸은 일순간 굳고 말았다.
+개의 덩치는 톰의 세 배 가까이 되어서 눈을 마주치는 것도 용기가 필요했다.
 옛날의 패기라면 한 번 덤벼볼 수도 있었겠지만 지금은 아닌 듯했다. 
 
 
