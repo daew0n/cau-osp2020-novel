@@ -451,6 +451,9 @@
 ```
 
 '쾅!'
+
+<p align="center"><img src="https://cdn.westseattleblog.com/blog/wp-content/uploads/2008/12/windblownover.jpg" width="50%" height="50%">
+
 그 때 누군가가 쓰레기통을 넘어트렸다.
 길가에는 쓰레기가 나뒹굴었고, 톰은 고양이 특유의 민첩함으로 널브러진 쓰레기들을 요리조리 피해갈 수 있었다.
 하지만 개는 고양이와 달랐다.
