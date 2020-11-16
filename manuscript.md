@@ -1646,6 +1646,9 @@
 ```
 톰은 대단한 결정이라도 내렸다는듯 폼을 잡고 먼산을 바라보았다.
 
+<!-- 톰의 코에 파리가 앉은 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/49439401/99254206-5480f200-2855-11eb-8365-0defd26a6a3f.jpg" width="50%" height="50%">
+
 어디선가 파리가 날아와 톰의 코 위에 앉았다.
 ```
 에취!!!!
