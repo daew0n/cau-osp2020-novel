@@ -251,6 +251,19 @@
 개는 하얗고 뻣뻣한 털에 사나운 이빨을 드러내며 으르렁 거렸다.
 <img src="https://postfiles.pstatic.net/MjAyMDExMTNfMTE5/MDAxNjA1MjQ4NjYyNDIx.iWhrrWaGkPfN456AKFZE3boDE7uyYOPtTH2KIi63xoIg.eZYFwj4uRFnnjh724S0IILHOSvQuoVqxUwNB_TZ4Tokg.JPEG.hanariyoung/%EC%8A%AC%EB%A7%81%ED%82%A4.jpg?type=w966">
 
+개의 얼굴에는 누가보아도 이 구역의 대장이라는 것을 알기 쉬울 정도의 큰 상처가 있었다.
+개의 이름은 생긴것과 다르게 슬링키♡ 인것 같았다.
+
+```
+이름이 슬링키..? 주인의 작명센스가 영...
+```
+
+개 주인의 작명센스에 대해 생각에 빠진 톰은 이제서야 자신이 놓은 상황을 깨닫게 되었다.
+
+```
+이대로면 나... 큰일날지도..?
+```
+
 하룻고양이 개 무서운 줄 모르고 덮친 것이었다.
 개는 자신의 꿀같은 낮잠을 방해한 톰에게 굉장히 화가난 상태로 으르렁거렸다.
 오래 사냥을 쉬었던 탓일까, 예상치 못한 상황에 톰의 몸은 일순간 굳고 말았다.
