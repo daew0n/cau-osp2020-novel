@@ -592,6 +592,9 @@
 <p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMTNfMTE5/MDAxNjA1MjQ4NjYyNDIx.iWhrrWaGkPfN456AKFZE3boDE7uyYOPtTH2KIi63xoIg.eZYFwj4uRFnnjh724S0IILHOSvQuoVqxUwNB_TZ4Tokg.JPEG.hanariyoung/%EC%8A%AC%EB%A7%81%ED%82%A4.jpg?type=w966" width="50%" height="50%">
 
 개의 얼굴에는 누가보아도 이 구역의 대장이라는 것을 알기 쉬울 정도의 큰 상처가 있었다.
+부릅뜬 두 눈에는 시선만으로 상대를 제압하는 카리스마가 담겨 있었다.
+눈을 마주치는 것만으로도 주눅이 든 톰은 눈을 내리깐 채 간신히 개의 목에 걸린 목걸이만을 볼 수 있었다.
+목걸이에는 개의 이름이 적혀있었다.
 개의 이름은 생긴것과 다르게 슬링키♡ 인것 같았다.
 
 ```
@@ -1343,13 +1346,13 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 톰은 상상만으로도 행복해 했다.
 
 ```
-제리 너도 이세계에 가줄 거지?
+제리 너도 이세계에 가줄 거지? 너와 함께 떠나면 외롭지 않고 정말 즐거울 것 같아.
 ```
 
 제리는 당황했지만 즐거운 모험이 될 거라 생각해 수락했다.
 
 ```
-어...어?? 알았어!!!
+어...어?? 알았어!!! 나라도 괜찮다면 네 곁에 있어줄게.
 ```
 제리는 속으로 생각하였다.
 
