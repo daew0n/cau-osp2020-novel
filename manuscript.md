@@ -1755,6 +1755,8 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 대신 처음 보는 얼굴의 집사가 있었다.
 톰은 편의점 문 앞을 어슬렁거렸다.
 
+<p align="center"><img src="https://img1.daumcdn.net/thumb/R720x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fliveboard%2Fnotepet%2F5e37dbdf5ce7480ca3b0b2e48ffe3186.JPG" width="50%" height="50%">
+
 하지만 역시 지금 눈앞의 집사는 길고양이 시절 밥을 챙겨주던 따뜻한 집사와는 다른 사람이었다.
 
 ```
