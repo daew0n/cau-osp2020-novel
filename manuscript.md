@@ -737,6 +737,11 @@
 
 
 
+![33](https://user-images.githubusercontent.com/74491255/99253821-c147bc80-2854-11eb-93cf-1eda1f9ba92f.jpg)
+
+
+
+
 ```
 감히 이 슬링키의 꼬리를 밟는 것도 모자라, 공격까지?!!!
 용서하지 않겠다!!!
