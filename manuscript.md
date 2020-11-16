@@ -946,7 +946,8 @@
 그나저나... 지금 이러고 있을 때가 아니야... 조심해!
 일단 여기 풀숲에 잠깐 숨자!!
 ```
-![image](https://user-images.githubusercontent.com/74454462/99256415-b8f18080-2858-11eb-964a-2c34d49e9b95.png)
+
+![image](https://user-images.githubusercontent.com/74454462/99255824-d5d98400-2857-11eb-96e5-644482a4dbe5.png)
 
 
 절체절명의 위기에서 그를 구해준 정체는 뜻밖에도 그의 오랜 친구 제리였다. 
