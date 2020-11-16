@@ -1228,7 +1228,11 @@
 그런데 뭔가 이상했다.
 그의 집에는 분명 환하게 불이 켜져 있었고 안에서는 집사들의 목소리가 들렸지만 그를 찾는 듯한 소리는 들리지 않았다.
 그럴리가 없다고 생각해 계속 집안 소리에 귀를 기울여 보았지만 '톰'이라는 자신의 이름이 들어간 주제의 대화는 단 한마디도 들을 수 없었다.
-
+서운한 마음을 가진 채 톰은 아침에 탈출했던 베란다로 향햤다.
+하지만 아침에 열려있던 베란다 창문은 굳게 닫혀있었다.
+창문을 기웃거려보기도 하고, 괜히 야옹 소리도 내보았지만 집사들의 시끌벅적한 웃음소리에 이내 묻히고 말았다.
+하루 종일 추격전으로 지친 자신의 그림자가 더욱 초라하게 느껴졌다.
+가을밤은 제법 어둡고 쌀쌀해졌고, 당황한 톰은 두려운 마음이 생기기 시작했다.
 <!-- 불켜진 지붕을 보고 외로워하는 고양이의 사진 -->
 <p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMTVfMTA4/MDAxNjA1NDE0Njg1NzEy.LCNcZMHKmlhcQIpXRz26K4kVHNFid1aHiJQbMCcYbP8g.Sj-D9Rp9cwCyVOhNXAPA7SzAqqtBkqzwi6eGMOT0xaQg.PNG.lkm778u/image.png?type=w966" width="50%" height="50%">
 
