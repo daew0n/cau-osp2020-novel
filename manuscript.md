@@ -2116,7 +2116,7 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 혹시라도 소녀가 나타날까 전봇대 뒤 담장에 올라가 지켜보았다.
 
 <!-- 전봇대 뒤 담장 위에서 미용실을 바라보는 톰  -->
-<img width="612" alt="nightcat" src="https://user-images.githubusercontent.com/74413983/99555370-9485d780-2a03-11eb-8211-fe2a4b46e195.png">
+<p align="center"><img src="https://user-images.githubusercontent.com/74413983/99555370-9485d780-2a03-11eb-8211-fe2a4b46e195.png" width="50%" height="50%">
 
 하지만 미용실 불은 꺼지고 문의 자물쇠가 채워지는 소리에 톰은 포기할 수밖에 없었다.
 배가 아무리 고파도, 자신에게 먹이를 줄 사람 정도는 알아볼 수 있었다. 오랜 길거리 생활이 준 하나의 팁이랄까.
@@ -2145,6 +2145,7 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 대신 처음 보는 얼굴의 집사가 있었다.
 톰은 편의점 문 앞을 어슬렁거렸다.
 
+<!-- 편의점 앞을 어슬렁거리는 톰 -->
 <p align="center"><img src="https://img1.daumcdn.net/thumb/R720x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fliveboard%2Fnotepet%2F5e37dbdf5ce7480ca3b0b2e48ffe3186.JPG" width="50%" height="50%">
  
 하지만 편의점 주인은 톰에게 눈길조차 주지 않았다. 톰은 어떻게 관심을 끌 수 있을지 고민하기 시작했다.
@@ -2169,7 +2170,7 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 톰은 편의점 주인을 바라보며 초롱초롱한 눈빛을 발사했다.
 
 <!-- 톰이 초롱초롱한 눈빛을 발사하는 모습 -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74243243/99467630-2c42e180-2982-11eb-8942-c0ef665b53e0.jpg">
+<p align="center"><img src="https://user-images.githubusercontent.com/74243243/99467630-2c42e180-2982-11eb-8942-c0ef665b53e0.jpg" width="50%" height="50%">
  
 그러나, 이는 전혀 소용이 없었다.
 급기야 주인은 빗자루를 들고 톰이 있는 자리로 걸어오기 시작했다.
@@ -2183,7 +2184,8 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 
 생소한 이름에 잠시 어리둥절했지만 편의점 주인을 눈으로 따라가보니 무슨 말인지 단번에 알 수 있었다.
 
-![01a1953bb8275c9914476a1e05edf377a3b45c9186](https://user-images.githubusercontent.com/61783968/99580990-80ea6900-2a23-11eb-90a6-e40fc0376276.jpg)
+<!-- 편의점 주인이 키우는 고양이 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/61783968/99580990-80ea6900-2a23-11eb-90a6-e40fc0376276.jpg" width="50%" height="50%">
 
 까미는 바로 이 편의점 주인이 키우는 고양이였고, 세상 모르게 자고 있었다.
 
@@ -2256,7 +2258,7 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 모든 단서가 하나의 답을 가리키고 있었다.
 
 <!-- 피 냄새를 맡고 있는 톰 사진 -->
-![bloodcat](https://user-images.githubusercontent.com/74413983/99572563-30b9d980-2a18-11eb-9e02-4b0bc9a729f9.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/74413983/99572563-30b9d980-2a18-11eb-9e02-4b0bc9a729f9.jpg" width="50%" height="50%">
 
 ```
 이 냄새는... 고기?!!!
@@ -2284,6 +2286,7 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 얼어버린 몸은 풀렸으며, 위협적인 풍채의 사람은 보이지 않았다. 
 톰의 시선은 오직 소고기에 고정되었다.
 톰은 소고기를 어떻게 가지고 올 것인지 생각하였다.
+
 <!-- 카트 안의 소고기만을 바라보는 톰의 사진 -->
 <p align="center"><img src="https://i.esdrop.com/d/iTNSNDrjxx.jpg" width="50%" height="50%">
 
@@ -2390,8 +2393,9 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 ```
 뭐지? 저 고양이한테 나는 소리인 건가? 저 친구도 배가 고픈가 보군...
 ```
+<!-- 배고파 보이는 고양이의 모습 -->
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMTlfMTM4/MDAxNjA1NzI1OTk3NTQw.Vjdntof8ZOCydhxPBGoZzTGdVkA8BbIExHnRxiexVZcg.R63pNL73pjdgF8ZwB9xoe9LIz-nWvGwabEzBKYa6xv0g.JPEG.hanariyoung/%EB%82%AF%EC%84%A0%EA%B3%A0%EC%96%91%EC%9D%B4.jpg?type=w966"width="50%" height="50%">
 
-<img src="https://postfiles.pstatic.net/MjAyMDExMTlfMTM4/MDAxNjA1NzI1OTk3NTQw.Vjdntof8ZOCydhxPBGoZzTGdVkA8BbIExHnRxiexVZcg.R63pNL73pjdgF8ZwB9xoe9LIz-nWvGwabEzBKYa6xv0g.JPEG.hanariyoung/%EB%82%AF%EC%84%A0%EA%B3%A0%EC%96%91%EC%9D%B4.jpg?type=w966" width="50%" height="50%">
 
 톰은 배고파 보이는 길고양이를 보고 아주 잠깐 고민하였다. 
 하지만 힘들게 얻은 고기를 바라보며 고개를 절레절레 흔들고 마음을 굳혔다.
@@ -2907,7 +2911,9 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 
 이제 어느 쪽으로 가야 하나 고민하며 터벅터벅 걸어간 지 몇 분 안 됐을 때, 꽤 떨어진 거리에서 쥐의 비명 같은 소리가 들려왔다.
 조용한 밤이라 그런지 그 비명은 더욱 선명하고 날카롭게 느껴졌다.
-![image](https://user-images.githubusercontent.com/74247115/99536875-461a0e00-29ee-11eb-9c4c-cc8f25001809.png)
+
+<!-- 쥐의 비명 같은 소리를 들은 톰 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74265263/99602013-febe6c80-2a43-11eb-83c3-40fdefb30883.png" width="50%" height="50%">
 
 
 ```
