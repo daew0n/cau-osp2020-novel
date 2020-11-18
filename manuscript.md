@@ -2381,6 +2381,8 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 뭐지? 저 고양이한테 나는 소리인 건가? 저 친구도 배가 고픈가 보군...
 ```
 
+<img src="https://postfiles.pstatic.net/MjAyMDExMTlfMTM4/MDAxNjA1NzI1OTk3NTQw.Vjdntof8ZOCydhxPBGoZzTGdVkA8BbIExHnRxiexVZcg.R63pNL73pjdgF8ZwB9xoe9LIz-nWvGwabEzBKYa6xv0g.JPEG.hanariyoung/%EB%82%AF%EC%84%A0%EA%B3%A0%EC%96%91%EC%9D%B4.jpg?type=w966" width="50%" height="50%">
+
 톰은 배고파 보이는 길고양이를 보고 아주 잠깐 고민하였다. 
 하지만 힘들게 얻은 고기를 바라보며 고개를 절레절레 흔들고 마음을 굳혔다.
 
