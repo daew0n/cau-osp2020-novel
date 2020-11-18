@@ -566,3 +566,6 @@
   - [발단:정정] 01 오타 수정
   - [발단:소설] 03 톰이 외출을 갈망하는 장면 묘사 및 기타 내용 추가
 
++ jinupotato
+  - [발단:소설] 01 톰이 집에 처음 온 계기 회상 #235 by jinupotato was merged (마감일 전에 merged)
+  - [발단:삽화] 02 톰이 선물상자에 담겨 처음 집에 온 사진 #241 by jinupotato was merged (마감일 전에 merged)
