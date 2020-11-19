@@ -365,7 +365,8 @@
 아마 한 번쯤은 날 쓰다듬어 줬을지도 몰라... 그리고 아침에 챙겨주지 못해 미안하다며 맛있는 간식을 주겠지...
 ```
 
-![고양이가 회상하는 그림](https://user-images.githubusercontent.com/35326976/99671621-a1630380-2ab5-11eb-9c3d-31cbbde97a8e.PNG)
+<!-- 고양이가 회상하는 그림 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/35326976/99671621-a1630380-2ab5-11eb-9c3d-31cbbde97a8e.PNG" width="50%" height="50%">
 
 배고픔에 잠시 주인과 보금자리를 떠올렸으나 그는 고개를 저으며 생각을 떨쳐냈다. 톰은 집을 나온 결정을 후회하지는 않았다.
 
