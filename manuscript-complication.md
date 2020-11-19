@@ -586,8 +586,9 @@
 톰은 그저 옛날의 자신을 보는 듯한 길고양이의 모습을 잊지 못했다. 
 톰은 이를 안타까움과 미련으로 머릿속에 남은 것이라 생각했다.
 
-![화면 캡처 2020-11-19 150140](https://user-images.githubusercontent.com/69396299/99628445-8a9ebb80-2a79-11eb-8573-be891f9e2b5f.png)
 
+<!-- 길고양이가 누군지 생각하는 톰 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/69396299/99628445-8a9ebb80-2a79-11eb-8573-be891f9e2b5f.png" width="50%" height="50%">
 ```
 음... 아까 그 고양이 말이야... 어디서 본 얼굴인데...?
 ```
