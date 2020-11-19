@@ -335,9 +335,13 @@
 
 한편, 제리는 톰과 헤어진 후 붕어빵 트럭 앞을 지나게 되었다. 
 트럭 속에서 붕어빵 아저씨는 라디오를 틀어놓은체 붕어빵을 진열하고 있었다. 
+
 ```
 요 며칠 이상하게도 야채를 구하기 쉽지 않습니다. 이틀 전부터 야채가 모두 사라졌습니다...
 ```
+<!-- 붕어빵 사진 -->
+<p align="center"><img src="https://mail.google.com/mail/u/0?ui=2&ik=e9e1c3f1ac&attid=0.1&permmsgid=msg-f:1683794287739160258&th=175e09fbcb8646c2&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ-P4-GkIgpofKyyvqRU0tcZk7BfWirAKIh_dPJeYZiUVaiFsxDoDqqgTrqqiYCmDL6L0A-JfBuAVztW_L83jpdqV4m-yjqovULQZvGhLr8-Fo9oF0OcdmZ52d0&disp=emb" width="50%" height="50%">
+
 톰은 군침을 삼키며 붕어빵 트럭을 한두바퀴 맴돌았지만, 봉어빵 아저씨는 일하기에 바빠 톰에게 눈길조차 주지 않았다.
 애처롭게 애옹애옹 소리를 내보기도 했지만, 대답없는 메아리만 돌아왔다. 
 
