@@ -320,7 +320,8 @@
 
 그때 톰에게 누군가가 다가왔다.
 
-![바퀴소리](https://user-images.githubusercontent.com/74303668/99641579-c9d70780-2a8d-11eb-9401-f944fc099f59.jpg)
+<!-- 바퀴소리-->
+<p align="center"><img src="https://user-images.githubusercontent.com/74303668/99641579-c9d70780-2a8d-11eb-9401-f944fc099f59.jpg" width="50%" height="50%">
 
 바퀴가 굴러가는 듯한 요란한 소리가 톰의 귀를 간지럽혔고, 희미한 피 냄새가 톰의 예민한 코를 자극했다.
 
