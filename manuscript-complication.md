@@ -54,7 +54,7 @@
 ```
 
 <!-- 보석박힌 장화신은 아주머니가 제안을 하는 장면 -->
-<p align="center"><img src="!https://user-images.githubusercontent.com/74340048/99670744-55fc2580-2ab4-11eb-91ca-0e26fdfd8d6b.jpg" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74340048/99671080-e0448980-2ab4-11eb-865a-e1cc9ed7ef21.jpg" width="50%" height="50%">
 
 톰은 반짝이는 장화에 눈이 팔려 복주머니를 내어 주려고 했다.
 저렇게 반짝이는 장화라면 인간에게 주고, 수없이 많은 참치캔을 얻을 수 있지 않을까 톰은 생각했다.
