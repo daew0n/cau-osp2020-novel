@@ -1147,6 +1147,8 @@
 
 제리는 톰의 화를 풀기 위해 식당에서 가져온 자신의 몸보다 큰 치즈를 보여주었다.
 
+<p align="center"><img src="https://user-images.githubusercontent.com/74526474/99677873-8a281400-2abd-11eb-89ee-117346e4ec6d.png" width="50%" height="50%">
+
 
 ```
 톰, 그래도 이 치즈를 봐, 너도 잭한테 밥을 나누어줘서 많이는 못 먹었지?
