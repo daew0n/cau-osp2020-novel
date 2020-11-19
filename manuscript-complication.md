@@ -1464,7 +1464,10 @@
 당황한 바퀴벌레 무리는 털을 주우려고 하였으나, 인기척이 느껴지자 줍지도 못하고 재빨리 숨어버렸다.
 이 집의 막내 딸이였다.
 바퀴벌레들은 고양이의 털을 보고있는 딸을 관찰했다.
-![KakaoTalk_20201119_193316903](https://user-images.githubusercontent.com/74279917/99654862-4a056900-2a9e-11eb-87fd-c8ca5a5ba90e.jpg)
+
+<!-- 바퀴벌레를 관찰하는 딸 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74279917/99654862-4a056900-2a9e-11eb-87fd-c8ca5a5ba90e.jpg" width="50%" height="50%">
+
 
 ```
 이 털은 톰의 털이 아닌 것 같은데... 누구의 털이지? 톰의 털이랑 비교해볼까?
