@@ -2131,7 +2131,8 @@ TV는 무수히 많은 세계의 모습을 보여주곤 했었다.
 한 번 얻어먹었다고 여기가 집인줄 아나봐?
 이래서 내가 애한테 함부로 먹이 주지 말라 한건데... 
 ```
-![삽화1](https://user-images.githubusercontent.com/74243880/99623676-efedaf00-2a6f-11eb-8ed0-c396a6d62812.jpg)
+<!-- 톰을 쫓아내는 미용실 아주머니 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74243880/99623676-efedaf00-2a6f-11eb-8ed0-c396a6d62812.jpg" width="50%" height="50%">
 
 소녀의 엄마는 '훠이훠이'라는 소리를 내며 톰에게 멀리 가라는 손짓을 하였다.
 톰은 그녀가 절대 음식을 주지 않을 것임을 너무나도 잘 알고 있었다.
