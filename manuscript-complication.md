@@ -982,7 +982,7 @@
 잭은 다른 고양이와 달리 판다처럼 눈 주변에 검은색 무늬가 있다.
 뿐만 아니라 잭은 얼굴에는 다른 고양이가 할퀴어서 생긴 흉터가 있다.
 <!-- 잭의 얼굴을 나타내는 사진 -->
-![image](https://user-images.githubusercontent.com/74454462/99640800-baa38a00-2a8c-11eb-9c17-e01810d5439d.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/74454462/99640800-baa38a00-2a8c-11eb-9c17-e01810d5439d.png" width="50%" height="50%">
 
 그런 얼굴을 가진 고양이는 매우 드물기 때문에 톰도 어느정도 의심이 가는 것은 사실이었다.
 톰은 길고양이가 설마 잭일까 하는 의아함을 느끼는 것과 달리 제리는 잭이 걱정되었다.
