@@ -793,6 +793,7 @@
 빨리 찾자!
 ```
 
+<!-- 톰을 찾기 위해 뛰어가는 제리의 모습 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74286653/99656820-b84b2b00-2aa0-11eb-9761-88136a17907b.png" width="50%" height="50%">
 
 톰을 한참을 찾아 돌아다니던 중 공터에 서있는 톰이 제리의 눈에 들어왔다. 
