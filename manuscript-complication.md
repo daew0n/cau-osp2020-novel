@@ -1481,8 +1481,22 @@
 <!-- 굶고있을 톰을 생각하는 막내딸 -->
 <p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMTlfODAg/MDAxNjA1Nzc2NDIxMTYy.pUj3IzyUQuIuyGLf6zPa_ulJ2R0--7Fy1XIjBvHPHgkg.l5zzDvd-BwwG6aQeHURctcnYDmNTcqIMRy71Ty4tZYgg.PNG.lkm778u/%E3%85%81%E3%85%81%E3%85%81.png?type=w966" width="50%" height="50%">
 
-갑자기 어딜 간 건지, 어디에서 굶고 있는 것은 아닌지..
-걱정투성이였다. 
+
+갑자기 어딜간건지, 어디에서 굶고있는것은 아닌지..
+걱정 투성이였다. 
+
+```
+그런데 집에 다른 고양이 털이 왜 있는거지?
+언니! 이리로 와서 이것 좀 봐봐.
+```
+막내는 불현듯 낯선 고양이 털에 이질감을 느꼈다.
+
+```
+그러게, 어떻게 다른 고양이 털이 집에 들어온거지?  
+창문에서 들어온건가?
+```
+
+
 톰은 그런 주인의 맘도 모른 채, 제리를 따라갔다.
 
 바퀴벌레들은 이를 보고 어떻게 해야할지 고민했다
