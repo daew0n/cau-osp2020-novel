@@ -296,8 +296,9 @@
 내가 허기 따위에 굴복할 것 같아..?
 내 자존심은 그렇게 약하지 않다고.
 ```
+
 <!-- 울먹거리는 톰 -->
-![image](https://user-images.githubusercontent.com/72140243/99671594-960fd800-2ab5-11eb-8233-4e3bf2c01daf.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/72140243/99671594-960fd800-2ab5-11eb-8233-4e3bf2c01daf.png" width="50%" height="50%">
 
 톰은 마음을 다잡고 다시 음식을 찾기 시작했다. 그러나 톰은 음식은커녕 음식의 부스러기도 발견할 수 없었다.
 
