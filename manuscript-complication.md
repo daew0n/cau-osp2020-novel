@@ -1196,6 +1196,9 @@
 
 톰은 제리를 물고 재빠르게 그 골목길을 빠져나왔다.
 
+<!--제리를 물고 골목길을 빠져나오는 톰-->
+<p align="center"><img src="https://i.esdrop.com/d/AIUR9wZoUC.png" width="50%" height="50%">
+
 ```
 이거 놔! 왜 그러는 건데? 넌 잭이 보고 싶지도 않아?
 ```
