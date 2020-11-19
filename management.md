@@ -3,7 +3,7 @@
 - 파트 종류 : 발단, 전개, 위기, 절정, 결말
 - 작성 종류 : 소설, 삽화, 정정, 관리, 기타
 
-(2) Commit 탭에 들어간 후 `Merge pull request #(업데이트 횟수) from daewon/main`에서 `committed ×× minutes/hour ago`부분을 확인
+(2) Commit 탭에 들어간 후 `Merge pull request #(업데이트 횟수) from daew0n/main`에서 `committed ×× minutes/hour ago`부분을 확인
 - 최근에 업데이트 된 것은 Merge ( 일반적으로 30분 ~ 1시간 기준으로 한다. )
 - 업데이트 Commit이 없으면 Close
 - 오래 된 것은 Close
