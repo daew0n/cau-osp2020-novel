@@ -490,7 +490,9 @@
 일단 눈을 마주치지 말아야겠어. 눈을 마주쳤다간 무슨 일이 일어날지 몰라..
 제발 무사히 지났으면...
 ```
-
+<!-- 뒤돌아서는 노란 고양이의 모습 -->
+<p align="center"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcUE1Ke%2FbtqNLRimGBV%2FyxwD6TmdYbCXWYcXyGfdkK%2Fimg.jpg" width="50%" height="50%">
+ 
 다행히도, 노란 고양이는 배가 별로 고프지 않았는지, 톰을 무시하고 천천히 걸어 사라졌다.
 
 ```
