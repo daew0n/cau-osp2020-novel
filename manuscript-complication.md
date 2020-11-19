@@ -1293,6 +1293,9 @@
 ```
 
 고개를 저으며 갈 길을 가던 톰은 결국 몇 발자국 가지 못하고 다시 제리와 헤어졌던 골목을 향해 뛰어갔다.
+<!-- 제리를 부르며 뛰어가는 톰 -->
+<p align="center"><img src="https://i.esdrop.com/d/pPboJdOz43.png" width="50%" height="50%">
+
 
 ```
 제리!!!!
