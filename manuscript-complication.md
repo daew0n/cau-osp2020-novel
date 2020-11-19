@@ -1781,6 +1781,9 @@
 ```
 얘들아, 무슨 일이니? 이제 잘 시간이니 얼른 방에 들어가렴.
 ```
+<!-- 무관심한 태도의 엄마 -->
+<p align="center"><img src="![dlwlsgml](https://user-images.githubusercontent.com/54145180/99680995-01ab7280-2ac1-11eb-9890-f43e1fb0e93f.jpg)
+" width="50%" height="50%">
 ```
 엄마, 톰이 안 보여요. 자기 전에 톰이랑 놀려고 집안 곳곳 살펴봤는데 없어요. 
 ```
