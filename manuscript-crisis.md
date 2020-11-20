@@ -688,6 +688,9 @@
 끝이 없는 여정에 톰은 지쳐가고 있었다.
 그때 톰의 정신을 깨우는 향기가 났다.
 톰의 눈빛이 말똥거렸다. 캣닢 냄새였다.
+<!-- 캣닢 냄새 맡은 톰 -->
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMjFfMjQw/MDAxNjA1OTEyNDEzOTcx.wkSoYD2bJO-neL-vs9jkZtJviekbK3Do9rpqyYLlSKYg.MERyYWRqW37qChUIsTJ-p8-nhLmlzyz16w4O8OSnsjEg.JPEG.hanariyoung/%EC%BA%A3%EB%8B%A2_%EB%83%84%EC%83%88%EB%A7%A1%EC%9D%80_%ED%86%B0.jpg?type=w966" width="50%" height="50%"> 
+
 집사가 종종 주곤 했던 캣닢 냄새에 들뜬 톰은 갑자기 달리기 시작했다.
 
 ```
