@@ -453,6 +453,9 @@
 그래서 저렇게 바뀌어버린걸까...?
 ```
 
+<!-- 노을 너머의 세계를 바라보는 톰과 제리 -->
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMjBfMTA3/MDAxNjA1ODY0NTcwMDA1.ldIvtVklyeYB7kJEaSUV1cWAoBCbdbLCGbgl8pzL3ZEg.5EPhFn8gRW4FngBI_wMI7qqUi9rQgE3h5sjIkbuZOf4g.PNG.sihumji00/%EB%85%B8%EC%9D%84.png?type=w966" data-lazy-src="" data-width="783" data-height="980" alt="" class="se-image-resource" width ="50%" height= "50%">
+ 
 제리는 잭과 노을 너머 세계와의 관련성에 대해 더욱 궁금해졌다.
 톰은 노을 너머 세계로 향할 수 있다는 사실에 가슴이 뛰었고, 그곳에서 자신을 돌보아줄 집사와 다시 행복해질 상상을 했다.
 그러나 잭에 대한 찝찝함은 가슴 한구석에 남아있었다.
