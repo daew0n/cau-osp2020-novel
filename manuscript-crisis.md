@@ -65,6 +65,10 @@
 그러던 중 제리를 향해 커다란 검은 그림자가 점점 접근하기 시작했다.
 검은 그림자의 존재를 알 수 없었던 톰은 이를 제리에게 알리기 위해 소리쳤다.
 
+<!-- 제리를 부르는 톰 그림 -->
+<p align="center"><img src="https://o.remove.bg/uploads/a9aa3265-9deb-4ee5-8dd5-6e2d87f2ca1a/%EA%BC%AC%EB%A5%B4%EB%A5%B5.jpg" width="50%" height="50%">
+
+
 ```
 제리! 뒤를 봐!
 ```
