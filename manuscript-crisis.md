@@ -454,6 +454,9 @@
 
 제리는 혹시나 하는 마음에 톰의 목에 걸려있던 오색빛깔 복주머니를 풀어 그 안의 내용물을 확인했다.
 
+<!-- 구슬을 들고 있는 제리 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74230759/99828817-caab8e80-2b9e-11eb-9e19-30b837ab9c8b.jpg" width="50%" height="50%">
+ 
 ```
 톰!! 이것 봐!! 구슬이야!! 역시 그 할머니가 마법사였어!
 ```
