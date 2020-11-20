@@ -491,6 +491,9 @@
 그리고 톰과 제리가 문 앞에 서자 문이 자동으로 열렸다.
 톰과 제리는 문 안으로 들어갔다. 그러자 문이 자동으로 닫히고 흔적도 없이 사라졌다.
 
+<!-- 꽃으로 가득한 넓은 들판과 푸른 하늘 -->
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMjBfMjM4/MDAxNjA1ODU0NjYyMDMw.Fx6dK6X9NqvVCmPPFU5uJwDTPUWJEipelEzHYbr8Nogg.7jHmkhx4lGJgtopvAER3lI4mUAjmLz6Llexaby1tqu4g.JPEG.eunyoungyi/%EC%9C%84%EA%B8%B0_%EB%93%A4%ED%8C%90.jpg?type=w773" width="50%" height="50%">
+
 톰과 제리의 눈 앞에 펼쳐진 것은 꽃으로 가득한 넓은 들판과 푸른 하늘이었다.
 방금까지 어둠 속에 있던 톰과 제리는 믿기지 않은 광경에 입이 떡 벌어졌다.
 톰과 제리가 첫발을 내딛자 들판 사이로 길이 생겼다.
