@@ -46,7 +46,7 @@
 제리! 제리? 어떡하지, 들리지 않는 모양인가...
 ```
 <!-- 제리를 부르는 톰 그림 -->
-<p align="center"><img src="https://o.remove.bg/uploads/e8954cfb-4b30-41a5-8ebd-f60de282eb60/%EA%BC%B4%EB%A3%A8%EB%A3%A9.jpg" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74265263/99858077-11fe4300-2bd0-11eb-90bf-c64224946ada.jpg" width="50%" height="50%">
 
 
 톰은 초조해지기 시작했다. 
