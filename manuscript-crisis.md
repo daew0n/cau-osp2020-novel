@@ -45,6 +45,9 @@
 너무 멀리 떨어지지 말라니깐... 
 제리! 제리? 어떡하지, 들리지 않는 모양인가...
 ```
+<!-- 제리를 부르는 톰 그림 -->
+<p align="center"><img src="https://o.remove.bg/uploads/e8954cfb-4b30-41a5-8ebd-f60de282eb60/%EA%BC%B4%EB%A3%A8%EB%A3%A9.jpg" width="50%" height="50%">
+
 
 톰은 초조해지기 시작했다. 
 늦은 밤 골목길.
