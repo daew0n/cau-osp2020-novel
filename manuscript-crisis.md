@@ -495,6 +495,20 @@
 <p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMjBfMjM4/MDAxNjA1ODU0NjYyMDMw.Fx6dK6X9NqvVCmPPFU5uJwDTPUWJEipelEzHYbr8Nogg.7jHmkhx4lGJgtopvAER3lI4mUAjmLz6Llexaby1tqu4g.JPEG.eunyoungyi/%EC%9C%84%EA%B8%B0_%EB%93%A4%ED%8C%90.jpg?type=w773" width="50%" height="50%">
 
 톰과 제리의 눈 앞에 펼쳐진 것은 꽃으로 가득한 넓은 들판과 푸른 하늘이었다.
+
+한편 톰과 제리가 떠난 후 바퀴벌레들은 그제서야 톰의 집사가 톰을 계속 그리워 하며 기다리고 있다는 것을 떠올렸다.
+그러나 톰과 제리는 이미 노을 너머의 세계로 떠나버린 이후 였고 그들이 돌아오기 전까지 바퀴벌레들이 노을 너머의 세계로 갈 수 있는 방법은 없었다. 
+
+```
+대장 어쩌죠, 톰의 집사가 톰을 애타게 찾고 있다는 것을 전하지 못했어요. 
+```
+
+```
+이미 톰은 떠나버렸어...이제는 톰이 올바른 선택을 해서 무사히 돌아오기만을 바래야지...
+우리도 이만 먹이를 찾으러 가자.
+```
+
+다시 노을 너머의 세계,
 방금까지 어둠 속에 있던 톰과 제리는 믿기지 않은 광경에 입이 떡 벌어졌다.
 톰과 제리가 첫발을 내딛자 들판 사이로 길이 생겼다.
 제리가 말했다.
