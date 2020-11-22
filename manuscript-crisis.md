@@ -783,6 +783,8 @@
 
 톰과 제리는 미야미야가 어떤 존재일지에 대해 대화를 하며 길을 걸었다.
 제리가 말했다.
+<!--미야미야의 모습을 상상하는 제리-->
+<p align="center"><img src="https://user-images.githubusercontent.com/74247115/99897729-82e05080-2cdf-11eb-8811-a6c6e2f5dc1c.png" width="50%" height="50%"> 
 
 ```
 마법사라고 했어! 분명 푸른 눈에 신비한 모습을 하고 있을 거야.
