@@ -602,7 +602,8 @@
 제리는 믿을 수 없다는 표정을 하고선 톰에게 물었다. 
 
 <!-- 변한 잭을 믿을 수 없다며 톰에게 말하는 제리 -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74279917/99909983-f198ca80-2d2e-11eb-9568-3bb7bff10acf.jpg" width="50%")
+<p align="center"><img src="https://user-images.githubusercontent.com/74279917/99909983-f198ca80-2d2e-11eb-9568-3bb7bff10acf.jpg" width="50%">
+
 
 ```
 톰.. 잭이 왜 저렇게 변한 거야? 
