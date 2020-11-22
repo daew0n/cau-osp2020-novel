@@ -609,6 +609,9 @@
 ```
 톰!! 이것 봐!! 구슬이야!! 역시 그 할머니가 마법사였어!
 ```
+<!--구슬을 보고 놀란 대장바퀴>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74284415/99903348-1ed18280-2d07-11eb-95f3-11f6584bebfe.jpg" width="50%" height="50%">
 
 대장 바퀴는 톰과 제리가 선택받았다는 사실에 놀랐다.
 
