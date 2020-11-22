@@ -1205,3 +1205,14 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74286653/99903116-ab7b4100-2d05-11eb-855f-c51c6f552120.png" width="50%" height="50%">
  
+톰과 제리는 몹시 지쳐 말없이 성까지 걸어가고 있었다.
+성까지 걸어가던 도중 제리는 신비한 사원을 발견했다.
+
+<!-- 신비한 사원을 발견한 제리 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74239275/99905805-80e5b400-2d16-11eb-8082-db4867067fea.JPG" width="50%" height="50%">
+
+```
+톰! 저기 신비한 사원이 있어!
+한번 들어가보자!!
+```
