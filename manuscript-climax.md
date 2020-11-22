@@ -4,6 +4,11 @@
 제리 저기 봐봐! 문이 곧 닫히려고 해!
 ```
 다시 원래 세상으로 돌아가는 문을 향해 세차게 나아간다.
+
+<!-- 다리를 다친 제리-->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74313494/99911817-32e2a780-2d3a-11eb-8b7f-7065d3fc284a.png" width="50%" height="50%">
+
 다리를 다친 제리는 빠르게 뛰지 못한다.
 ```
 제리 이리 와!
