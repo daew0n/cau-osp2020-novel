@@ -2050,13 +2050,17 @@
 ```
 뭐야 제리! 장난치지 말고, 이거 어떻게 할까?
 ```
-
+<!--혼자 떠 있는 양탄자-->
+<p align="center"><img src="https://i.esdrop.com/d/j3EgPe8Nzk.png" width="50%" height="50%">
+ 
 제리가 잠시 숨을 멈추더니 말했다.
 
 ```
 나 이거 손도 대지 않고 있어...
 톰, 이거 혼자 떠오르는 마법 양탄자인가 봐!!
 ```
+
+
 
 <!-- 제리 옆 둥둥 떠있는 양탄자 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/63641939/99953062-04111380-2dc4-11eb-9219-d166d39b1522.jpg" width="50%" height="50%">
