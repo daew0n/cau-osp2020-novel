@@ -966,6 +966,10 @@
 우와, 이 정도면 잭과 싸워도 거뜬히 이길 수 있겠어!!!
 ```
 
+<!-- 덩치가 커져 근육을 보고 놀라는 제리 -->
+<p align="center">
+<img src="https://blogfiles.pstatic.net/MjAyMDExMjNfMjAw/MDAxNjA2MTA3MDI5Mzk3.iz9abwO0cJg3Q75UwXE-bQHw4f5WvkQonCITY-5foLAg.qX2N7ueYEMoaoW-0jROLdYwzeVuRCC4z8lCeKlE6z7kg.PNG.warm10216/%EA%B1%B0%EC%9A%B8%EC%86%8D%EC%A0%9C%EB%A6%AC.png?type=w1" width="50%" height="50%">     
+ 
 제리가 근육을 뽐내며 우쭐댔다.
 영리함이 무기였던 제리인데, 거울 속 모습이라면 어떤 방면으로든 잭에게도 밀릴 것이 없을 듯했다.
 톰과 제리는 서로를 바라보았다. 
