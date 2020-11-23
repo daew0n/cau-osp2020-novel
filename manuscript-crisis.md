@@ -1488,6 +1488,10 @@
 제리 너는? 너는 어떤 소원을 빌고 싶어?
 ```
 
+<!--치즈를 배터지게 먹는 상상을 하는 제리-->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63641939/99959889-3116f380-2dcf-11eb-92e2-934f6e4dd20e.jpg" width="50%" height="50%">
+
 ```
 나? 나는... 너랑 평생 행복하게 사는거?! 맛있는 치즈를 배터지게 먹으면서 말이야.
 ```
