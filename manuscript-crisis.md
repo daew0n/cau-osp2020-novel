@@ -173,7 +173,10 @@
 ```
 밤중에 이런 곳에 오지 말았어야 했는데.. 내가 아까 제리를 더 설득했어야 했던 건데..
 ```
-
+<!-- 눈물을 흘리는 톰 그림 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49439401/99930991-4facc880-2d96-11eb-9a3b-597acfc8f69c.jpg" width="50%" height="50%">
+ 
 톰의 눈에는 눈물이 고이기 시작했다. 
 
 ```
