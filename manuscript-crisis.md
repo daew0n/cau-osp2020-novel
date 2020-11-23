@@ -2573,4 +2573,4 @@
 그러자 정신을 차리고 다시 앞을 보니 검은 마녀가 눈앞에 있었다.
 
 <!--톰과 제리앞에 검은 마녀 등장 -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74340048/99968909-1ba8c600-2ddd-11eb-9227-775acdcddda4.jpg" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74340048/99969947-80b0eb80-2dde-11eb-8964-f00851d86133.jpg" width="50%" height="50%">
