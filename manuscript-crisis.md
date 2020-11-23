@@ -987,7 +987,7 @@
 
 대장 바퀴는 말끝을 흐리며 말을 마쳤다.
 
-<img src="https://user-images.githubusercontent.com/71554908/99935846-00ba5f80-2da5-11eb-85b8-f591223357b6.png" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/71554908/99935846-00ba5f80-2da5-11eb-85b8-f591223357b6.png" width="50%" height="50%">
 
 ```
 음... 그러니까 노을 너머 세계에 가면 소원을 이룰 수 있다는 말이지....? 
@@ -1276,7 +1276,7 @@
 그리고 거울에 비친 제리를 보며 말했다.
 
 <!-- 톰의 변화된 외형 -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74454462/99970418-22d0d380-2ddf-11eb-9eb2-d04096d35bdb.png" width="50%" height="50%>
+<p align="center"><img src="https://user-images.githubusercontent.com/74454462/99970418-22d0d380-2ddf-11eb-9eb2-d04096d35bdb.png" width="50%" height="50%">
 
 ```
 제리 너도 덩치가 많이 커진 것 같아!
