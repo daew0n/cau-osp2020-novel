@@ -2564,6 +2564,9 @@
 좋아요. 어떤 부탁이죠?
 ```
 
+<!-- 조오커왕과 부하들의 모습 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74340048/99972921-7ee92700-2de2-11eb-8cc4-763ec7e6c14f.jpg" width="50%" height="50%">
+
 ```
 검은 마녀를 물리쳐라. 그 마녀는 우리 병사 중 검은 카드들을 모조리 잡아가고 있어.
 ```
