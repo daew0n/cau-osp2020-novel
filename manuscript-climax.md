@@ -77,7 +77,9 @@
 역시 대장 바퀴의 말이 맞았군. 제리, 노을 너머의 세계에 잘 다녀왔니? 크킄
 근데 왜 톰의 모습은 보이지 않고 너 혼자만 있는거지?
 ```
-
+<!-- 제리 앞에 나타난 잭 -->
+<p align="center"><img src = "https://postfiles.pstatic.net/MjAyMDExMjNfMjkg/MDAxNjA2MTIxMzYwNTE4.90lQ3bwfOXKUFmwRJXQDxSHzOl4aXTB4rb1eJk0yH5Ag.u34ta_T8pwgZlm1tFgIsBFGArvLpgU2c8CF7DrKKN-8g.JPEG.eunyoungyi/%EC%A0%88%EC%A0%95_%EC%A0%9C%EB%A6%AC_%EC%95%9E%EC%97%90_%EB%82%98%ED%83%80%EB%82%9C_%EC%9E%AD.jpg?type=w773" width="50%" height="50%">
+  
 그렇다. 제리 앞에 나타난 것은 잭이었다. 
 제리는 무서웠지만 노을 너머의 세계에서 잭이 왜 변해버렸는지 그리고 그를 어떻게 원래대로 선하게 바꿀 수 있는지 알고 있었다.
 다만, 성공 가능성이 희박할 뿐...
