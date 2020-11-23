@@ -987,8 +987,7 @@
 
 대장 바퀴는 말끝을 흐리며 말을 마쳤다.
 
-![image](https://user-images.githubusercontent.com/71554908/99935846-00ba5f80-2da5-11eb-85b8-f591223357b6.png)
-
+<img src="https://user-images.githubusercontent.com/71554908/99935846-00ba5f80-2da5-11eb-85b8-f591223357b6.png" width="50%" height="50%">
 
 ```
 음... 그러니까 노을 너머 세계에 가면 소원을 이룰 수 있다는 말이지....? 
@@ -1275,8 +1274,9 @@
 이상하게 톰은 몸에서 힘이 넘쳐나는 느낌이 들었다.
 이 상태로는 잭이든 슬링키든 다 이길수 있을거 같았다.
 그리고 거울에 비친 제리를 보며 말했다.
+
 <!-- 톰의 변화된 외형 -->
-![image](https://user-images.githubusercontent.com/74454462/99970418-22d0d380-2ddf-11eb-9eb2-d04096d35bdb.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/74454462/99970418-22d0d380-2ddf-11eb-9eb2-d04096d35bdb.png" width="50%" height="50%>
 
 ```
 제리 너도 덩치가 많이 커진 것 같아!
@@ -2333,6 +2333,7 @@
 
 시궁창 쥐 로건이었다. 
 동족을 만난 제리는 신이 났지만, 이미 톰은 지친 상태였다.
+
 <!-- 지친 톰 그림 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/49439401/99940050-c3f36600-2dae-11eb-94e2-7e74736e279b.jpg" width="50%" height="50%">
  
@@ -2474,7 +2475,7 @@
 하지만 몰랐을 수 밖에 없던 것이 실제로 그 길은 너무 잔잔하게 아름다웠다. 은은한 조명들이 톰과 제리의 길을 밝혔다. 
 그렇게 그들은 나란히 걸어갔다.
 
-<!-- 톰의 외형 -->
+<!--  -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74282098/99968944-2b280f00-2ddd-11eb-9424-7cdfa44bd66b.png" width="50%" height="50%">
 
 ```
