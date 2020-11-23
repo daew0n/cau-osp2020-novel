@@ -995,7 +995,7 @@
 <p align="center">
 <img src="https://postfiles.pstatic.net/MjAyMDExMjBfMTA3/MDAxNjA1ODY0NTcwMDA1.ldIvtVklyeYB7kJEaSUV1cWAoBCbdbLCGbgl8pzL3ZEg.5EPhFn8gRW4FngBI_wMI7qqUi9rQgE3h5sjIkbuZOf4g.PNG.sihumji00/%EB%85%B8%EC%9D%84.png?type=w966" data-lazy-src="" data-width="783" data-height="980" alt="" class="se-image-resource" width ="50%" height= "50%">
 
-제리는 노을 너머 세계에서 잭에게 어떤 일이 더욱 궁금해졌다.
+제리는 노을 너머 세계에서 잭에게 어떤 일이 일어났던 것인지 더욱 궁금해졌다.
 톰은 노을 너머 세계로 향할 수 있다는 사실에 가슴이 뛰었고, 그곳에서 자신을 돌보아줄 집사와 다시 행복해질 상상을 했다.
 그러나 잭에 대한 찝찝함은 가슴 한구석에 남아있었다.
 
@@ -1802,7 +1802,7 @@
 
 ```
 톰! 강아지들이 달려간 방향 저 멀리에 성이 보여!
-저기의 미야미야가 있는 걸까?
+저기에 미야미야가 있는 걸까?
 ```
 
 제리의 말을 듣고 톰은 강아지가 달려간 곳을 보았다.
@@ -2054,6 +2054,9 @@
 톰 저길 봐! 동굴이 있어!
 한번 들어가 보자! 뭔가 단서가 있을 거야
 ```
+
+<!-- 동굴을 발견한 톰과 제리 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/63641939/99958081-09725c00-2dcc-11eb-82bf-40ea23223f81.jpg" width="50%" height="50%">
 
 제리가 갑자기 동굴을 발견하고 톰에게 알린다. 얼어 죽을듯한 추위였는데 마침 몸을 녹일 수 있을 것 같아 다행이었다.
 톰과 제리는 재빨리 동굴로 들어가 몸과 양탄자를 녹이고 있었다.
