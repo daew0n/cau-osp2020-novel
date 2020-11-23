@@ -2433,6 +2433,8 @@
 음.. 문을 두드리는 것밖에는 방법이 없지 않을까?
 ```
 
+<p align="center"><img src="https://user-images.githubusercontent.com/74293674/99966381-8f48d400-2dd9-11eb-9432-3593ce098dea.png" width="50%" height="50%">
+
 톰은 쾅, 쾅! 하고 문을 세게 두드렸다. 문을 두드린지 얼마 지나지 않아, 그 커다란 문이 스스로 열렸다.
 
 ```
@@ -2458,6 +2460,8 @@
 ```
 
 그물 덫에 걸려 천장에 매달리게 된 것이다. 
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74293674/99967127-beac1080-2dda-11eb-8561-00a10967b118.png" width="50%" height="50%">
 
 ```
 웬 놈이냐?
