@@ -2718,7 +2718,8 @@
 톰은 재빠르게 뒤를 돌아보았다.
 
 뒤에는 작은 구덩이가있었다.
-
+<!--얼음동굴 사진-->
+<p align="center"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile29.uf.tistory.com%2Fimage%2F2734D54953E4B76F2104EB" width="50%" height="50%">
 제리는 이미 그 안에 들어가있었고 톰은 서둘러 그 구덩이 속으로 들어갔다.
 ```
 여기 구멍이있어 여길 통하면 저 마녀의 눈을 피해 도망갈 수 있을 것 같지않아? 
