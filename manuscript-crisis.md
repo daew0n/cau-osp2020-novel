@@ -783,6 +783,7 @@
 
 <!-- 노을 너머 세계에 대해 얘기하는 톰에게 답답함을 느끼는 제리 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/63641939/99939182-d40a4600-2dac-11eb-9006-0e2b416b1ca8.jpg" width="50%" height="50%">
+
 제리는 한숨을 쉬며 말했다. 노을 너머의 세계 때문이라니, 납득이 가지 않았다.
 
 ```
