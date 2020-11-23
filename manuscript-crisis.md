@@ -1994,6 +1994,9 @@
 ```
 시궁창 쥐 로건이었다. 
 동족을 만난 제리는 신이 났지만, 이미 톰은 지친 상태였다.
+<!-- 지친 톰 그림 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/49439401/99940050-c3f36600-2dae-11eb-94e2-7e74736e279b.jpg" width="50%" height="50%">
+ 
 ```
 제리. 꼭 이 친구와 함께 해야하는 걸까?
 ```
