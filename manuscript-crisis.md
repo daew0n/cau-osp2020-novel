@@ -995,7 +995,7 @@
 <p align="center">
 <img src="https://postfiles.pstatic.net/MjAyMDExMjBfMTA3/MDAxNjA1ODY0NTcwMDA1.ldIvtVklyeYB7kJEaSUV1cWAoBCbdbLCGbgl8pzL3ZEg.5EPhFn8gRW4FngBI_wMI7qqUi9rQgE3h5sjIkbuZOf4g.PNG.sihumji00/%EB%85%B8%EC%9D%84.png?type=w966" data-lazy-src="" data-width="783" data-height="980" alt="" class="se-image-resource" width ="50%" height= "50%">
 
-제리는 노을 너머 세계에서 잭에게 어떤 일이 더욱 궁금해졌다.
+제리는 노을 너머 세계에서 잭에게 어떤 일이 일어났던 것인지 더욱 궁금해졌다.
 톰은 노을 너머 세계로 향할 수 있다는 사실에 가슴이 뛰었고, 그곳에서 자신을 돌보아줄 집사와 다시 행복해질 상상을 했다.
 그러나 잭에 대한 찝찝함은 가슴 한구석에 남아있었다.
 
@@ -1802,7 +1802,7 @@
 
 ```
 톰! 강아지들이 달려간 방향 저 멀리에 성이 보여!
-저기의 미야미야가 있는 걸까?
+저기에 미야미야가 있는 걸까?
 ```
 
 제리의 말을 듣고 톰은 강아지가 달려간 곳을 보았다.
