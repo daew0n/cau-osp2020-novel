@@ -594,6 +594,26 @@
 
 예상치 못한 존재의 등장에 놀란 톰이 말했다.
 
+주변이 시끄러워지자 기절했던 제리는 깨어났다.
+
+```
+톰, 여기는 어디야?
+```
+
+```
+제리! 설명한 시간은 없어 우리 빨리 도망쳐야 해!
+```
+
+제리는 톰의 말을 듣고 주변을 둘러봤다.
+
+```
+이런, 저기 잭 아니야! 잭이 우릴 잡으려고 하는 거야? 
+```
+
+```
+그래, 빨리 도망치지 않으면 우린 죽을 거야
+```
+
 <!-- 구멍을 가리키는 제리 사진 -->
 <p align="center">
 <img src="https://postfiles.pstatic.net/MjAyMDExMThfNTgg/MDAxNjA1NzAxMDk0NzE5.5M28uJ0a5mr-nQBlH3Xsq3hM43ky3OwJZbW902F_6Ggg.dE6FKHSyhiJfS0z06WLn8NS7zZzstjWsloAxChYjJyYg.PNG.eunyoungyi/%EC%9C%84%EA%B8%B0_%EC%A0%9C%EB%A6%AC%EA%B0%80%EB%B0%9C%EA%B2%AC%ED%95%9C%EA%B5%AC%EB%A9%8D.png?type=w773" width="50%" height="50%">
