@@ -2438,6 +2438,9 @@
 곤경에 처했을 때 이 호루라기를 불어봐.
 ```
 
+<!-- 호루라기를 주는 로건의 모습 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/69396299/99974728-b22cb580-2de4-11eb-8fa2-092019b3a240.png" width="50%" height="50%">
+ 
 ```
 호루라기?? 알았어!
 잘가 로건~!
