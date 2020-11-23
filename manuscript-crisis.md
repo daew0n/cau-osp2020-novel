@@ -2475,7 +2475,7 @@
 하지만 몰랐을 수 밖에 없던 것이 실제로 그 길은 너무 잔잔하게 아름다웠다. 은은한 조명들이 톰과 제리의 길을 밝혔다. 
 그렇게 그들은 나란히 걸어갔다.
 
-<!--  -->
+<!-- 아름다운 풍경 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74282098/99968944-2b280f00-2ddd-11eb-9424-7cdfa44bd66b.png" width="50%" height="50%">
 
 ```
