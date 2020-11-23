@@ -777,7 +777,7 @@
 혹시 미야와 관련되어 있지는 않을까?
 ```
 
-그러나 톰은 제리의 말은 귀에 들어오지 않았다. 톰의 머릿속에는 TV 속 노을 세계가 가득 차 있었다.
+그러나 톰의 귀에 제리의 말은 하나도 들어오지 않았다. 톰의 머릿속에는 TV 속 노을 세계가 가득 차 있었다.
 
 <!-- 노을세계 사진 -->
 <p align="center"><img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg" width="50%" height="50%">
@@ -788,6 +788,9 @@
 아니야 분명 잭은 노을 너머의 세계에 다녀온 거야. 그래서 저렇게 변해버린 걸 거야.
 상점가에 있는 TV를 엿보고 알게 됐을 수도 있어. 아니면 우연히 길거리를 돌아다니다가 우연히 노을 너머 세계에 가게 되었다던가!
 ```
+
+<!-- 노을 너머 세계에 대해 얘기하는 톰에게 답답함을 느끼는 제리 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/63641939/99939182-d40a4600-2dac-11eb-9006-0e2b416b1ca8.jpg" width="50%" height="50%">
 
 제리는 한숨을 쉬며 말했다. 노을 너머의 세계 때문이라니, 납득이 가지 않았다.
 
@@ -953,7 +956,7 @@
 <p align="center">
 <img src="https://postfiles.pstatic.net/MjAyMDExMjBfMTA3/MDAxNjA1ODY0NTcwMDA1.ldIvtVklyeYB7kJEaSUV1cWAoBCbdbLCGbgl8pzL3ZEg.5EPhFn8gRW4FngBI_wMI7qqUi9rQgE3h5sjIkbuZOf4g.PNG.sihumji00/%EB%85%B8%EC%9D%84.png?type=w966" data-lazy-src="" data-width="783" data-height="980" alt="" class="se-image-resource" width ="50%" height= "50%">
 
-제리는 잭과 노을 너머 세계와의 관련성에 대해 더욱 궁금해졌다.
+제리는 노을 너머 세계에서 잭에게 어떤 일이  더욱 궁금해졌다.
 톰은 노을 너머 세계로 향할 수 있다는 사실에 가슴이 뛰었고, 그곳에서 자신을 돌보아줄 집사와 다시 행복해질 상상을 했다.
 그러나 잭에 대한 찝찝함은 가슴 한구석에 남아있었다.
 
