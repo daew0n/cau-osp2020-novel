@@ -1211,7 +1211,9 @@
 ```
 그땐 정말 아무 걱정 없이 행복하기만 했었는데..
 ```
-
+<!-- 톰이 생각하는 사진 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74240237/99951785-fbb7d900-2dc1-11eb-9ac4-6b5c8a79d4eb.png" width="50%" height="50%">
 
 ```
 톰! 무슨 생각을 그렇게 하는 거야?
