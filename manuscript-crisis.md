@@ -2040,6 +2040,10 @@
 
 그렇게 팔찌의 주인과 그림자에 대해 얘기하던 톰과 제리는 어느세 성 앞에 도착했다.
 
+<!-- 어느새 성 앞에 도착한 톰과 제리의 모습 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74279917/99942910-c4423000-2db3-11eb-9ff0-7c7a5f85b6f5.jpg" width="50%" height="50%">
+
+
 ```
 어? 저기봐 톰!!!
 우리가 드디어 성에 도착했어!!!
