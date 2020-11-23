@@ -702,8 +702,6 @@
 ```
 그나저나.. 네가 어떻게 거기에..?
 ```
-<!-- 톰과 제리가 걱정되어 따라왔다고 말하는 포키 -->
-<img width="848" alt="tomandjerry" src="https://user-images.githubusercontent.com/74413983/99926429-0142fe00-2d85-11eb-928a-adebdb881c67.png" width="50%" height="50%">
 
 ```
 그게.. 길 돌아다니다가 톰 형님이 어두운 골목에 들어가길래 걱정돼서 따라왔어요.
@@ -1036,6 +1034,10 @@
 ```
 
 잭이 협박을 하자 바퀴벌레 무리들이 두려움에 질렸고 대장 바퀴는 어쩔 수 없이 톰과 제리의 행방을 말했다.
+
+<!-- 잭의 위협에 겁에 질린 대장 바퀴 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/63641939/99940643-ed60c180-2daf-11eb-83f0-a0cad258be7c.jpg" width="50%" height="50%">
+
 
 ```
 미... 미안해 잘못했어 걔네 둘, 노을 너머 세계로 갔어...
