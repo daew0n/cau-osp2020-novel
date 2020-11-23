@@ -2301,6 +2301,9 @@
 
 톰은 내키지 않았지만 자신을 위해 따라온 제리의 생각을 쉽게 반대할 수 없었다.
 
+<!-- 로건과 함께 하기로 한 톰과 제리의 모습 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74277067/99963107-a20cda00-2dd4-11eb-9c45-f0ea5c3bfe2d.jpg" width="50%" height="50%">
+
 ```
 ...!!! 정말 고마워 얘들아!!!! 이 은혜 꼭 잊지 않을게
 ```
