@@ -341,6 +341,7 @@
 ```
 역시 고양이는 귀여..크흠...
 ```
+<p align="center"><img src = "https://user-images.githubusercontent.com/74247115/100088362-5a00bc80-2e93-11eb-9caf-25dc93bf64da.png" width="50%" height="50%">
 잠시 어디엔가 정신이 팔려있었다는 듯 마녀가 목을 가다듬고 전보다는 조금 부드러운 목소리로 톰에게 말하기 시작했다.
 ```
 나와 여기에 남는다면, 특별히 이뻐해 주도록 하지.
