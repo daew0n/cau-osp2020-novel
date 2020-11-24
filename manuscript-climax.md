@@ -220,6 +220,10 @@
 
 그때 제리의 머릿속에는 톰과 함께 있을 때 상상했던 푸른 눈의 생명체가 떠올랐다.
 
+<!-- 푸른 눈의 생명체-->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74303668/100096585-90443900-2e9f-11eb-939c-c5b3b46cc3e6.jpg" width="50%" height="50%">
+
 ```
 예전에 톰이 좋아했던 미야도 푸른 눈을 가지고 있다고 했지?
 그래 좋았어. 
