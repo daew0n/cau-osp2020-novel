@@ -439,6 +439,10 @@
 
 운석이라도 떨어진 듯한 소리와 함께 연기가 잭과 제리를 뒤덮었다.
 
+<!--잭과 제리를 뒤덮은 연기-->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74192997/100141629-14191800-2ed6-11eb-9e02-f289c2163932.jpg" width="50%" height="50%">
+  
 ```
 콜록, 콜록
 ```
