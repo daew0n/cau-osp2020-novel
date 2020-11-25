@@ -104,6 +104,9 @@
 제리 이리 와! 내 등으로 올라와, 빨리!
 ```
 
+<!-- 제리를 등에 태우고 달리는 톰 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74230759/100256492-34091400-2f88-11eb-90ac-f7b90f11a0f0.jpg" width="50%" height="50%">
+
 톰은 다친 제리를 등에 태우고 달리기 시작했다.
 문이 아슬아슬하게 닫히려고 한다.
 
