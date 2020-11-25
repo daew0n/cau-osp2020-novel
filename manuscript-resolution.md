@@ -97,6 +97,11 @@
 ```
 먼저 도망가 30초 동안 숫자 센다~
 ```
+
+<!-- 숫자 세는 톰과 도망가는 제리 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74265263/100285919-1a31f600-2fb5-11eb-8464-3b00710fc8bc.jpg" width="50%" height="50%">
+
+
 제리가 도망갔다.
 
 톰이 제리를 쫓으려 한다.
