@@ -920,16 +920,17 @@
 이제 다 끝난 건가...?
 ```
 
-<!--마녀의 진짜 모습-->
-<p align="center">
-<img src="https://user-images.githubusercontent.com/69343466/100169090-f5327a00-2f05-11eb-817f-df05dc34a54f.PNG" width="50%" height="50%">
-  
 마녀가 쓰러지고 난 연기 속에서 굵고 걸걸한 목소리가 들려왔다.
 ```
 이 자식들이 내 성질 까먹은 모양이네...?
 ```
 연기 속에서 양복을 입은 중년의 남성이 중얼거리면서 나타났다.
 그렇다 이 모습이 원래 마녀의 모습이었다. 
+
+<!--마녀의 진짜 모습(수정)-->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/69343466/100206874-3e0c2200-2f4a-11eb-8a74-4e60c45b98c7.jpg" width="50%" height="50%">
+  
 ```
 당신... 누구야..? 
 마녀 맞아..? 마녀는 여자 아닌가..?
