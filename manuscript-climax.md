@@ -861,6 +861,8 @@
 ```
 마녀의 힘이 약해져 톰의 머리에 있던 표식도 희미해져 갔다.
 그 순간 마녀의 옷 안에 있던 수정들이 떨어 나갔다.
+<!--수정에 갇힌 동물 영혼들-->
+<p align="center"><img src="https://i.esdrop.com/d/fxPykyYELB.jpg" width="50%" height="50%">
 
 ```
 저건 뭐지? 수정들이 비명을 지르고 있어
