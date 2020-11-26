@@ -358,8 +358,10 @@
 그리고 다시 현실 세계로 돌아갈 수 있는 방법을 찾는 거야! 그럼 다 같이 다시 원래대로 돌아갈 수 있어! 할 수 있다 톰!!
 ```
 <!-- 눈물을 닦는 톰-->
-<img width="1112" alt="cryingtom" src="https://user-images.githubusercontent.com/74413983/100344807-c0691480-3024-11eb-952f-a5303a734ead.png" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74413983/100344807-c0691480-3024-11eb-952f-a5303a734ead.png" width="50%" height="50%">
 
+
+<!-- 결심하는 톰-->
 <p align="center"><img src="https://user-images.githubusercontent.com/74238817/100347638-088a3600-3029-11eb-8714-7185d5d5e401.PNG" width="50%" height="50%">
 
 마치 뭐든지 해낼 수 있다는 듯이 톰은 눈물을 닦고 마음을 다잡았다.
@@ -474,7 +476,7 @@
 제리는 훌쩍 거리며 말했다.
 
 <!--훌쩍이는 제리-->
-![cryingjerry](https://user-images.githubusercontent.com/74413983/100353708-463f8c80-3032-11eb-84d5-16fff74e6646.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/74413983/100353708-463f8c80-3032-11eb-84d5-16fff74e6646.jpg" width="50%" height="50%">
 
 
 ```
@@ -1040,6 +1042,7 @@
 안쓰러운듯한 표정으로 톰을 쳐다보면서 마녀가 답했다.
 <!--톰의 턱을 손으로 치켜드는 검은 마녀-->
 <p align="center"><img src = "https://user-images.githubusercontent.com/49439401/100338562-14bbc680-301c-11eb-96d7-ad776e2bf2bd.jpg" width="50%" height="50%">
+   
 마녀는 톰의 턱을 손으로 치켜들며 말했다.
 
 ```
@@ -1920,7 +1923,10 @@
 
 제리는 입가에는 미소를, 눈빛은 확신을 가지고 있었다.
 
-<img width="1130" alt="Artboard 1jerry_whisper" src="https://user-images.githubusercontent.com/74279304/100338197-a2e37d00-301b-11eb-8352-008fef123f5f.png">
+<!-- 톰에게 말을 하는 제리 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74279304/100338197-a2e37d00-301b-11eb-8352-008fef123f5f.png" width="50%" height="50%">
+
 
 ```
 톰~! 날 좀 믿어봐!
