@@ -2509,6 +2509,9 @@
 어디선가 들려오는 익숙한 목소리, 톰과 제리는 고개를 들었다.
 흰 털에 푸른 눈을 가진 고양이, 바로 미야였다.
 
+<!-- 미야의 모습 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74340048/100361023-ffa35f80-303c-11eb-8bb0-f16c19d41558.jpg" width="50%" height="50%">
+
 ```
 너..너는 미야..?!
 ```
