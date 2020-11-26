@@ -2292,6 +2292,10 @@
 
 미야미야는 어쩔 수 없다는 표정을 하고선 변장을 풀고 원래의 모습으로 돌아왔다.
 
+<!-- 미야미야의 변신 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/39612211/100353339-b568b100-3031-11eb-818f-4fb9422e9e08.png" width="50%" height="50%">
+
+
 ```
 ...! 뭐야!
 ```
