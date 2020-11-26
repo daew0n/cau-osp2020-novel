@@ -1628,6 +1628,8 @@
 
 공격을 시작하려던 미야미야는 잭이라는 이름을 듣자 공격을 하지 못했고,
 그 틈을 타 톰은 미야미야의 마술 지팡이를 낚아챘다.
+<!-- 미야미야의 마술 지팡이를 낚아채는 톰 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/60423885/100312458-ba0f7400-2ff5-11eb-8644-da56befd73f4.jpeg" width="50%" height="50%">
 
 <!-- 미야미야의 지팡이를 뺏는 톰 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74284415/100311941-53d62180-2ff4-11eb-90c4-c81c8777173f.jpg" width="50%" height="50%">
