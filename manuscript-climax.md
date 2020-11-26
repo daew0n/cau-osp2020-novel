@@ -330,8 +330,8 @@
 ```
 재잘거릴 땐 시끄럽더니, 없으니 허전하네...
 ```
-<!-- 슬픈 눈을 하고 있는 톰 -->
-![sdfas](https://user-images.githubusercontent.com/61783968/100359763-5b6ce900-303b-11eb-8bc0-69c81c1f0faa.jpg)
+<!--슬픈 눈을 하고 있는 톰-->
+<p align="center"><img src="https://user-images.githubusercontent.com/61783968/100359763-5b6ce900-303b-11eb-8bc0-69c81c1f0faa.jpg" width="50%" height="50%">
 
 
 
