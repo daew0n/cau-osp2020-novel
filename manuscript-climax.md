@@ -454,6 +454,10 @@
 <p align="center"><img src="https://i.esdrop.com/d/Rn1cYjW58t.jpg" width="50%" height="50%">
 
 제리는 말을 하면서도 솟아오르는 감정을 주체할 수 없어 양 눈가에 눈물이 맺혔다.
+
+<!-- 제리가 훌쩍이며 대장 바퀴에게 말하는 장면 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74240237/100353117-628ef980-3031-11eb-9c5d-4321799710f3.png" width="50%" height="50%">
+   
 ```
 그게... 나를 구하려다가...
 톰이 노을 너머 세계에 갇혀버렸어.
