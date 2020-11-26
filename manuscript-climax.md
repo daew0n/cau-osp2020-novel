@@ -2687,7 +2687,7 @@
 
 <!--외치는 톰과 놀란 미야-->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74310760/100365551-fc12d700-3042-11eb-8004-c2b7195203f4.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/74310760/100371550-48621500-304b-11eb-8f07-38c4c762ccf9.png" width="50%" height="50%">
 
 
 ```
