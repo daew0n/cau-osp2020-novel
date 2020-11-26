@@ -1313,6 +1313,9 @@
 ```
 잭과 제리는 서둘러 마법진 안으로 들어갔다.
 
+<!-- 잭과 제리를 노을 너머 세계로 보내주는 할머니 그림 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74277067/100300430-5a0ad480-2fd9-11eb-88b1-656b40ba1da1.jpg" width="50%" height="50%">
+
 ```
 감사합니다 할머니, 저희 꼭 무사히 돌아올게요!
 ```
