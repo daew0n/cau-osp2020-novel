@@ -122,3 +122,10 @@
 톰! 뭐해? 안잡을거야?!
 ```
 제리가 소파 아래에서 소리쳤다.
+
+톰도 제리를 따라 소파 밑으로 들어갔다.
+
+<!-- 소파에 앉아있는 고양이 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74239275/100304970-554b1e00-2fe3-11eb-8793-40e00fefd3c2.jpg" width="50%" height="50%">
+톰은 소파 밑에서 제리를 찾기 시작했다.
