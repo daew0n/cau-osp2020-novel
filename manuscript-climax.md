@@ -105,6 +105,9 @@
 뭐...? 으아! 잠시 언제?
 ```
 
+<!-- 톰과 제리 뒤로 보이는 문의 형상 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/63641939/100354257-34aab480-3033-11eb-9bed-77e9eb74185a.jpg" width="50%" height="50%">
+
 어느샌가 톰과 제리의 뒤에서 문의 형상이 일렁이고 있었다.
 제리는 다급하게 로건에게 질문 하나를 던졌다.
 
