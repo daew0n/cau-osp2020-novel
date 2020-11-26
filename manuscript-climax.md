@@ -2273,6 +2273,10 @@
 뭔가 맞서 싸울 능력이라도 있었으면...
 ```
 톰이 이렇게 말하자마자 톰의 발에서 빛이 났다.
+
+<!-- 빛나는 톰의 다리 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/63641939/100364609-b6094380-3041-11eb-914b-3da2a43c297f.jpg" width="50%" height="50%">
+
 ```
 톰, 그게 뭐야?
 ```
