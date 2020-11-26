@@ -1404,7 +1404,7 @@
 그렇게 톰 혼자 애태우고 있던 중, 잭이 미야에게 고백을 한 것이다.
 
 <!-- 잭과 미야의 사랑을 지켜보는 톰 그림 -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74277067/100303698-7bbb8a00-2fe0-11eb-9bab-e58a5cf4a708.jpg" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74277067/100305194-e28e7280-2fe3-11eb-830d-1e2541ccb132.jpg" width="50%" height="50%">
 
 그 장면은 정말 우연히 보게 되었다. 
 먹이 냄새를 찾아 골목을 헤매던 도중 톰은 잭과 미야가 함께 있는 것을 보았다. 
