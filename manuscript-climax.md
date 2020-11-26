@@ -1579,7 +1579,7 @@
 톰이 소리쳤다.
 
 <!-- 톰 일행과 그 앞을 막은 미야미야 -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74277067/100296878-a7367880-2fd0-11eb-98b5-c07f8a247670.jpg" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74277067/100303991-2633ad00-2fe1-11eb-94a5-db6f39c4c954.jpg" width="50%" height="50%">
 
 ```
 이건..이건 너무 치사하잖아! 갑자기...!
