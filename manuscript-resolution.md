@@ -175,6 +175,10 @@
 둘 다 먼지투성이야!
 ```
 
+<!-- 서로를 보며 웃는 톰과 제리 -->
+<p align="center">
+<img src="https://postfiles.pstatic.net/MjAyMDExMjZfMjc2/MDAxNjA2Mzg1MTU5MDc1.lro-mie51nbn7BtqO7stJEuXwMv4uMjcMac2GyoM4ogg.RSdtLtSIYDJVqqnhO1OShZnhxXeTqIahhVFpPRtaExsg.JPEG.eunyoungyi/%EA%B2%B0%EB%A7%90_%EC%84%9C%EB%A1%9C%EB%A5%BC_%EB%B3%B4%EB%A9%B0_%EC%9B%83%EB%8A%94_%ED%86%B0%EA%B3%BC%EC%A0%9C%EB%A6%AC.jpg?type=w773" width="50%" height="50%">
+ 
 순간 톰과 제리는 눈이 마주쳤고, 흐뭇하게 웃는다.
 톰이 입을 연다.
 ```
