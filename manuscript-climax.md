@@ -540,6 +540,9 @@
 ```
 톰에게 무관심할 때는 언제고, 이제와서 찾는다고 하니 조금은 화가 나기도 했다.
 
+<!-- 화가 난 제리 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74254652/100358560-af76ce00-3039-11eb-9e78-e53bd8491d28.png" width="50%" height="50%">
+   
 ```
 원래 인간들은 다 저런가? 진짜 어이없네.
 어서 이 이야기를 톰에게 전ㅎ...
