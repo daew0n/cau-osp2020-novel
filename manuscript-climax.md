@@ -669,13 +669,17 @@
 ```
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74407946/100344934-ed1d2c00-3024-11eb-95a4-10fd362ec5a2.jpg" width="50%" height="50%">
-
+   
 잭이 비아냥거리며 말했다.
+
 
 ```
 그럴 리가 없잖아...!!!
 잭, 어떻게 하면 다시 톰을 데려올 수 있는 거지? 넌 알고 있잖아!! 어서 말해줘!!
 ```
+<!-- 잭에게 화내는 제리-->
+<p align="center"><img src="https://user-images.githubusercontent.com/74491255/100364970-2b751400-3042-11eb-9461-acfa43455121.png" width="50%" height="50%">
+   
 잭의 비아냥거림에 제리는 분노했다.
 분노한 제리는 잭의 코앞으로 다가가서 용감하게 소리쳤다.
 
