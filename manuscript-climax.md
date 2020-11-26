@@ -993,6 +993,8 @@
 아아... 참치... 
 이건 못 참치...
 ```
+<!--이건 못 참치-->
+<p align="center"><img src="https://user-images.githubusercontent.com/74330132/100354094-ec8b9200-3032-11eb-9639-d0c39a6a0ed1.png" width="50%" height="50%">
 
 하지만 톰은 무언가 생각이 났다는 듯 고개를 흔들고선, 마녀를 바라보고 말했다.
 
