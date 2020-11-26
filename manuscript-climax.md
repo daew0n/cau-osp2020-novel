@@ -1943,6 +1943,8 @@
 이게 뭐야!
 ```
 
+<!-- 철창에 갇힌 톰과 제리 사진 --><p align="center"><img src="https://user-images.githubusercontent.com/74300076/100339917-d2938480-301d-11eb-8672-bca39ee4ce9e.jpg" width="50%" height="50%">
+
 미야미야는 톰과 제리를 쳐다보지도 않고 잭에게 말했다.
 ```
 잭! 되게 오랜만에 보는데, 반갑게 반겨주지 않다니 실망인데?
