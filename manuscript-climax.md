@@ -1476,6 +1476,11 @@
 톰이 걱정돼서 다시 돌아왔구나!! 다시 여기로 돌아오지 말라니깐...
 너희들의 우정을 내가 어떻게 말리겠니
 ```
+
+
+<!-- 지도에 표시된 호루라기 위치를 보고있는 로건 -->
+<p align="center"><img src="https://blogfiles.pstatic.net/MjAyMDExMjZfMjQ3/MDAxNjA2Mzc4MzIxOTE1.xfbOuMjoRglzWrDZKNkuWWO1rRtxQ7UK3G6e30fxohEg.a6aEf9Ie-AkY3pRyrxjfnEZxx4RQXr5l3GTtsjYo8SIg.PNG.warm10216/%ED%98%B8%EB%A3%A8%EB%9D%BC%EA%B8%B0.png?type=w1" width="50%" height="50%">
+
 로건은 톰이 걱정돼서 위험한 노을 너머 세계로 다시 돌아온 제리를 보고 못 말리겠다는 듯이 웃으며 말했다.
 
 ```
