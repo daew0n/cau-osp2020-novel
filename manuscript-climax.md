@@ -967,6 +967,8 @@
 ```
 
 안쓰러운듯한 표정으로 톰을 쳐다보면서 마녀가 답했다.
+<!--톰의 턱을 손으로 치켜드는 검은 마녀-->
+<p align="center"><img src = "https://user-images.githubusercontent.com/49439401/100338562-14bbc680-301c-11eb-96d7-ad776e2bf2bd.jpg" width="50%" height="50%">
 마녀는 톰의 턱을 손으로 치켜들며 말했다.
 
 ```
