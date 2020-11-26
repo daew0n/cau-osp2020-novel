@@ -261,6 +261,9 @@
 너무나도 순식간의 일이었다. 
 제리가 손쓸 틈 없는 찰나였다.
 
+<!-- 문 앞에서 슬퍼하는 제리 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/63641939/100355562-56a53680-3035-11eb-9369-a0f44b3a41c3.jpg" width="50%" height="50%">
+
 ```
 어떡해... 나 때문에 톰이... 도대체 왜...
 ```
