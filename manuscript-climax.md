@@ -2719,7 +2719,7 @@
 이거면 증명이 되겠죠? 이제 약속을 지켜 주세요!!
 ```
 
-<!-- 미야미야의 구슬을 본 하트킹의 표정 -->
+<!-- 미야미야의 구슬을 본 조오커 왕의 표정 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74340048/100364896-10a29f80-3042-11eb-99f5-374ba0b4ca66.jpg" width="50%" height="50%">
 
 ```
