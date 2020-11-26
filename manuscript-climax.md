@@ -8,6 +8,7 @@
 
 <!-- 호루라기를 불고 도움을 기다리는 톰과 제리 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74297999/100358858-1bf1cd00-303a-11eb-94ff-d5d0a93ef206.jpg" width="50%" height="50%">
+
 모든 것이 끝났다고 생각한 그때, 호루라기에서 환한 빛이 생겨나며 로건이 등장했다.
 등장한 로건의 모습은 톰과 제리가 이전에 생각하던 모습과는 전혀 달랐다.
 아까의 꼬질꼬질한 모습은 온데간데없었다.
@@ -544,10 +545,7 @@
 대장 바퀴는 톰의 가족들이 새벽 내내 톰을 찾고 있었다는 사실을 말해주었다.
 
 <!-- 제리에게 사실을 말해주는 대장 바퀴 -->
-<img width="1280" alt="Artboard 1cockroach" src="https://user-images.githubusercontent.com/74279304/100342831-e5a85380-3021-11eb-9523-443f05801f1b.png" width="50%" height="50%">
-
-
-
+<p align="center"><img src="https://user-images.githubusercontent.com/74279304/100342831-e5a85380-3021-11eb-9523-443f05801f1b.png" width="50%" height="50%">
 
 
 ```
@@ -2564,7 +2562,7 @@
 
 <!-- 미야미야의 원래 모습 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74296224/100352996-2bb8e380-3031-11eb-8bf1-889071f70df1.jpg" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/74265263/100370690-fcfb3700-3049-11eb-988c-8e5175e882e5.jpg" width="50%" height="50%">
 
 
 미야미야의 원래 모습은, 미야처럼 흰털과 푸른 눈을 가지고, 멋진 수염을 기른 중년의 고양이었다.
