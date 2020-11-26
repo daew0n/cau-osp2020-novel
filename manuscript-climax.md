@@ -1779,6 +1779,8 @@
 
 제리는 입가에는 미소를, 눈빛은 확신을 가지고 있었다.
 
+<img width="1130" alt="Artboard 1jerry_whisper" src="https://user-images.githubusercontent.com/74279304/100338197-a2e37d00-301b-11eb-8352-008fef123f5f.png">
+
 ```
 톰~! 날 좀 믿어봐!
 나 제리야 제리 믿어서 나쁠 게 없어!
