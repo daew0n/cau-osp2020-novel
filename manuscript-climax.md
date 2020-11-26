@@ -564,6 +564,9 @@
 혹시 네가 톰만 두고 온 거야? 둘은 친구 아니었나?
 크큭, 정말 안됐군... 불쌍한 톰~
 ```
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74407946/100344934-ed1d2c00-3024-11eb-95a4-10fd362ec5a2.jpg" width="50%" height="50%">
+
 잭이 비아냥거리며 말했다.
 
 ```
