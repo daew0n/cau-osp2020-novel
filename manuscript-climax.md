@@ -1797,6 +1797,10 @@
 의아해할 시간은 없었다. 제리는 마법 양탄자를 주워 곧바로 톰이 있는 쪽으로 던졌다. 
 
 마법 양탄자는 톰의 머리 위로 곧바로 날아가, 떨어지는 돌을 받아내고 위로 떠올랐다. 
+
+<!-- 톰의 머리 위로 떨어지는 돌을 받아내는 양탄자 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/69396299/100354781-05e10e00-3034-11eb-9dfb-1dccc434a7e9.png" width="50%" height="50%">
+
 그러고는 허공을 잠시 맴돌다가 천천히 바닥으로 내려왔다.
 
 ```
@@ -2064,7 +2068,8 @@
 이게 뭐야!
 ```
 
-<!-- 철창에 갇힌 톰과 제리 사진 --><p align="center"><img src="https://user-images.githubusercontent.com/74300076/100339917-d2938480-301d-11eb-8672-bca39ee4ce9e.jpg" width="50%" height="50%">
+<!-- 철창에 갇힌 톰과 제리 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74300076/100339917-d2938480-301d-11eb-8672-bca39ee4ce9e.jpg" width="50%" height="50%">
 
 미야미야는 톰과 제리를 쳐다보지도 않고 잭에게 말했다.
 ```
