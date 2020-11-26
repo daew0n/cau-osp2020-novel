@@ -1955,6 +1955,7 @@
 톰, 아까 너가 미야미야의 지팡이를 가져갔을 때 영향으로 너도 마법을 쓸 수 있게 된거 아닐까?
 ```
 톰은 제리의 말에 약간 의문이 들었지만 그럴 수도 있다고 생각했다.
+<!-- 다리에 신비한 문양이 생긴 톰 -->
 <p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMjZfMjEg/MDAxNjA2Mzc4MjM2NDAx.ecpnS7HHL_3CUDQ00UqATSESqOqwgXPgN_zmhN0wOm4g.b6A6sQ2V5m0hOqUnuWm-ROY4v-XQ9ol0npr_ftzSOiUg.PNG.lkm778u/image.png?type=w966" width="50%" height="50%">
 
 톰의 다리에 신비한 문양이 생겼다.
