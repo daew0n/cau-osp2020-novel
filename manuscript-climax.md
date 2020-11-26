@@ -76,7 +76,9 @@
 ```
 그 악인이 됐다는 고양이... 다시 원래 모습으로 되돌릴 수 있어?
 ```
-
+<!-- 고민하는 로건 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/49439401/100335203-0f5c7d00-3018-11eb-9696-fc601a39590a.jpg" width="50%" height="50%">
+   
 로건은 고민하다가 무언가 떠올랐다는 듯 얘기를 시작했다. 
 
 ```
