@@ -383,7 +383,7 @@
 그녀의 눈앞에는 커다란 하트 모양의 연등이 보였다.
 
 <!--하트 연등 -->
-<p align="center"><img src="https://i.esdrop.com/d/N5sNZFAx8Y.jpg" width="50%" height="50%">
+<p align="center"><img src="https://i.esdrop.com/d/7ZAwRsGEEF.jpg" width="50%" height="50%">
 
 ```
 ...!
