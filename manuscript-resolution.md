@@ -389,6 +389,12 @@
 <!--하트 연등 -->
 <p align="center"><img src="https://i.esdrop.com/d/7ZAwRsGEEF.jpg" width="50%" height="50%">
 
+그 광경을 본 미야는 굉장히 놀랐다.
+
+<!--놀란 미야 -->
+<p align="center"><img src="https://i.esdrop.com/d/aTeP0PP5fg.png" width="50%" height="50%">
+
+
 ```
 ...!
 저건.. 하트..?
