@@ -415,6 +415,10 @@
 ```
 ...잭!
 ```
+
+<!--감동받은 미야 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74330132/100437414-0e911d00-30e4-11eb-9fd7-71b817999ecd.png" width="50%" height="50%">
+
 미야는 감동의 눈물을 흘리며 잭을 껴안았다.
 
 ```
