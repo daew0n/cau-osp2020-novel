@@ -103,6 +103,9 @@
 <!-- 따뜻한 우유 -->
 <p align="center"><img src="https://cdn.pixabay.com/photo/2017/08/06/17/41/milk-2594538_960_720.jpg" width="50%" height="50%">
 
+<!-- 평화롭게 휴식을 취하는 톰 사진 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74243243/100491236-5ad07180-3165-11eb-8882-1ed31a583fa1.jpg" width="50%" height="50%">
+
 집사는 일터에 휴가를 냈는지 부쩍 톰이랑 있는 시간이 늘었다.
 전에는 자주 들을 수 없던 톰의 이름을 부르는 소리도 자주 들려왔고, 톰이 그루밍하는 횟수가 눈에 띄게 줄 정도로 빗질도 자주 해주었다.
 
