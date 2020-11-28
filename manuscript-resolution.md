@@ -618,6 +618,10 @@
 미야가 빙긋 웃으며 말했다. 그 어느 때보다 행복한 지금이기에, 미야는 잭과 함께 할 수 있는 한 많은 추억을 쌓고 싶었다.
 
 잭과 미야는 연등을 붙잡고 있던 풀잎을 떼어낸 후, 연등의 바닥을 부드럽게 위로 툭 치자, 연등은 그 어떤 불빛보다 밝게 빛나며 서서히 하늘을 향해 날아갔다.
+
+<!-- 연등을 보는 잭과 미야-->
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMjhfMjky/MDAxNjA2NTQ5NDkzMTIz.z7kA5eeI461YcSmStWiXSr_9LRf_Xr0AsftN9QpDDM0g.SgbZKdRkrFw9lLdJ2iRNT7dc70QCcDGPxO9A7RJX7Uwg.JPEG.eunyoungyi/%EA%B2%B0%EB%A7%90_%EC%97%B0%EB%93%B1%EC%9D%84_%EB%B3%B4%EB%8A%94_%EC%9E%AD%EA%B3%BC_%EB%AF%B8%EC%95%BC.jpg?type=w773" width="50%" height="50%">
+ 
 ```
 무슨 소원 빌었어?
 ```
