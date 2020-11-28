@@ -130,7 +130,7 @@
 오랜만에 선글라스나 껴볼까~?
 ```
 <!-- 선글라스를 낀 톰 -->
-![dskajc;ai](https://user-images.githubusercontent.com/61783968/100484305-32358100-313f-11eb-9c47-713f7c54d394.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/61783968/100484305-32358100-313f-11eb-9c47-713f7c54d394.jpg" width="50%" height="50%">
 
 
 톰은 집을 나서기 전 문득 나에게 관심을 주지 않던 집사에게 잘 보이기 위해 세수했을 때가 떠올랐다.
