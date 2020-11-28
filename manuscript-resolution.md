@@ -337,6 +337,9 @@
 
 그때 제리가 소파 아래에서 소리쳤다.
 
+<!-- 소파 밑에서 소리치는 제리의 모습 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/63641939/100514442-28039900-31b8-11eb-98cb-42b769b7e893.jpg" width="60%" height="60%">
+
 ```
 톰! 뭐해? 안 잡을 거야?!
 그렇게 여유 부리면 내가 이기는 건 뻔한 결과가 될 거라고~!
