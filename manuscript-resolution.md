@@ -15,6 +15,10 @@
 조오커 왕은 이렇게 말하고선 신비한 문을 만들었다. 
 톰, 제리, 잭, 미야, 슬링키까지 그 문의 웅장함에 압도당했다.
 
+<!-- 차원문 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74246766/100499627-73b14500-31ae-11eb-8509-6ff85754fb82.png" width="50%" height="50%">
+
 ```
 자, 누구 먼저 건널 건가?
 ```
