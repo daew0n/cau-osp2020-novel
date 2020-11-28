@@ -594,7 +594,11 @@
 ```
 물론 정말 좋은 여자친구도.
 ```
+<!-- 얼굴을 비비는 잭과 미야-->
+<p align="center"><img src="https://user-images.githubusercontent.com/74247115/100496333-8881de80-3196-11eb-9ca0-f6addd4392c9.png" width="50%" height="50%">
+ 
 잭과 미야는 밤하늘을 수놓은 연등을 보며 사랑스럽게 서로의 얼굴을 비볐다.
+ 
 ```
 미야.
 ```
