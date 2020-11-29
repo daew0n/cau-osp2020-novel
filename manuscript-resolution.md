@@ -430,6 +430,9 @@
 
 그제야 박스의 표면에 그려진 고양이용 옷들이 보였다.
 
+<!-- 박스의 표면에 그려진 고양이용 옷 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74303668/100537565-f3054e00-326c-11eb-81c6-059498fb24bf.jpg" width="50%" height="50%">
+
 ```
 아... 안돼!!! 
 
