@@ -523,6 +523,9 @@
 ```
 톰은 집사의 침대 밑을 향해 달렸다.
 
+<!-- 집사의 침대 밑을 향해 달리는 톰 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74303668/100544126-f7466100-3296-11eb-9532-1c6dd33afa6f.jpg" width="50%" height="50%">
+
 도망치는 톰을 보며 집사가 톰을 불렀다.
 ```
 톰 어디가는거야!
