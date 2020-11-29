@@ -1343,7 +1343,7 @@
 
 잭은 수줍은 얼굴을 하고선 톰과 제리에게 가져온 자루를 건네주었다.
 <!-- 잭이 준 리본과 캣닢 -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74192997/100545479-560fd880-329f-11eb-9251-e981f785f192.jpg" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74192997/100545850-6b860200-32a1-11eb-9696-856e29c133ab.jpg" width="50%" height="50%">
 
 
 그 안에는 톰을 위한 캣닢, 제리를 위한 빨간 리본이 들어있었다.
