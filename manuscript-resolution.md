@@ -246,7 +246,11 @@
 ```
 감사합니다. 할머님!! 할머니도 행복하세요!!
 ```
-
+<!-- 할머니와 작별인사 하는 톰 -->
+<p align="center">
+<img src="<!-- 톰 발바닥의 구슬 문양 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74192997/100517503-41174480-31ce-11eb-8990-d0fd5c16eb7b.jpg" width="50%" height="50%">" width="50%" height="50%">
 톰은 이윽고 충격과 함께 정신을 잃었다.
 톰이 눈을 떴을 땐 제리와 노을 너머 세계로 갔던 그 골목길에, 제리의 손을 잡고 누워있는 자신을 발견했다.
 
