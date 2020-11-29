@@ -814,15 +814,10 @@
 ![image](https://user-images.githubusercontent.com/71554908/100554036-722e6c80-32d5-11eb-9ccc-78afe7ca63a0.png)
 
 제리를 붙잡은 손은 집사의 손이었다.
-집사의 나머지 손은 제리를 쫓아 소파 아래에서 나오던 톰을 붙잡았다.
 
 ```
-둘 다 먼지투성이야!
+제리야... 먼지투성이잖니!
 ```
-
-<!-- 서로를 보며 웃는 톰과 제리 -->
-<p align="center">
-<img src="https://postfiles.pstatic.net/MjAyMDExMjZfMjc2/MDAxNjA2Mzg1MTU5MDc1.lro-mie51nbn7BtqO7stJEuXwMv4uMjcMac2GyoM4ogg.RSdtLtSIYDJVqqnhO1OShZnhxXeTqIahhVFpPRtaExsg.JPEG.eunyoungyi/%EA%B2%B0%EB%A7%90_%EC%84%9C%EB%A1%9C%EB%A5%BC_%EB%B3%B4%EB%A9%B0_%EC%9B%83%EB%8A%94_%ED%86%B0%EA%B3%BC%EC%A0%9C%EB%A6%AC.jpg?type=w773" width="50%" height="50%">
 
 순간 톰과 제리는 눈이 마주쳤고, 통한듯이 서로를 보며 빙그레 웃어댔다.
 톰이 입을 연다.
@@ -845,11 +840,16 @@
 톰, 너도 이리 와!
 ```
 
-<!-- 오리 인형이 떠 있는 욕조가 있는 욕실의 모습 -->
-<p align="center"><img src="https://i.esdrop.com/d/WzcdcZrOO8.jpg" width="50%" height="50%">
+<!-- 서로를 보며 웃는 톰과 제리 -->
+<p align="center">
+<img src="https://postfiles.pstatic.net/MjAyMDExMjZfMjc2/MDAxNjA2Mzg1MTU5MDc1.lro-mie51nbn7BtqO7stJEuXwMv4uMjcMac2GyoM4ogg.RSdtLtSIYDJVqqnhO1OShZnhxXeTqIahhVFpPRtaExsg.JPEG.eunyoungyi/%EA%B2%B0%EB%A7%90_%EC%84%9C%EB%A1%9C%EB%A5%BC_%EB%B3%B4%EB%A9%B0_%EC%9B%83%EB%8A%94_%ED%86%B0%EA%B3%BC%EC%A0%9C%EB%A6%AC.jpg?type=w773" width="50%" height="50%">
 
 집사는 제리와 톰을 번쩍 안아 욕실로 데려갔다.
 욕조에는 따듯한 물이 받아져 있었다.
+
+<!-- 오리 인형이 떠 있는 욕조가 있는 욕실의 모습 -->
+<p align="center"><img src="https://i.esdrop.com/d/WzcdcZrOO8.jpg" width="50%" height="50%">
+
 톰이 좋아하는 오리 인형도 둥둥 떠다녔다.
 집사는 평소에 톰을 목욕시킬 때마다 고생했던 기억이 났다.
 톰은 물에 조금 닿기만 해도 놀라 온갖 난리를 피웠었다.
