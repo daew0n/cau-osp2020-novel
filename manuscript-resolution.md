@@ -35,6 +35,9 @@
 침묵을 깬 사람은 조오커 왕이었다.
 5 명의 표정을 자랑스러운듯 보고 있던 조오커 왕은 얕은 웃음을 띠며 다시 입을 열었다.
 
+<!-- 미소를 짓는 조오커 왕 -->
+<p align="center"> <img src="https://user-images.githubusercontent.com/74243880/100572828-cd824e00-3319-11eb-9896-f502cc88250b.jpg" width="50%" height="50%">
+ 
 ```
 자, 누구 먼저 건널 건가?
 진심이 담긴 자 앞장서보거라!
@@ -1717,6 +1720,10 @@
 
 톰은 속으로 생각했다.
 
+<!-- 창문 밖 눈 내리는 풍경-->
+<p align="center"><img src="https://user-images.githubusercontent.com/74243880/100572842-d1ae6b80-3319-11eb-942e-427fba21528d.jpg" width="50%" height="50%">
+ 
+ 
 ```
 어? 얘들아! 
 눈이야! 정말 예쁘다~
