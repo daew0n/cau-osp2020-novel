@@ -871,6 +871,9 @@
 ```
 행복해 보여.
 ```
+<!-- 내리는 눈을 맞는 사람들의 모습 -->
+<p align="center">
+<img src="https://images.unsplash.com/photo-1543937879-950674d6e5df?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1349&q=80.jpg" width="50%" height="50%">
 
 내리는 눈을 맞으며 사람들은 행복해 보였다. 그리고 톰도 이제 그 행복이 무엇인지 알았다.
 몇 개월 전, 톰은 행복을 위해 멀고 험한 여정을 떠났었다.
