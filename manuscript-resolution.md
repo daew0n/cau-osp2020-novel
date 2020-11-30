@@ -1621,6 +1621,9 @@
 엇, 근데 이게 뭐야??
 ```
 
+<!-- 톰의 발바닥에 새겨진 구슬 모양의 노란색 문양 -->
+<p align="center"><img src="https://blogfiles.pstatic.net/MjAyMDExMzBfMjQ2/MDAxNjA2NzQ1NzMzMTc0.gVWIcNkIth189Xmf1zmwoPn7BI0TU0jISqiJkFUZjVEg.NGqOTVFT572lsFE_guOxOIfXbXhfvmo677lM0HYPaZcg.PNG.warm10216/%EB%B0%9C%EB%B0%94%EB%8B%A5.png?type=w1" width="70%" height="70%">
+
 집사가 톰의 발바닥에 새겨진 구슬 모양의 노란색 문양을 발견한 것이었다. 순간 당황한 톰은 잡고 있던 집사의 손에서 냉큼 다리를 빼내었다.
 톰은 발바닥을 보여주기 싫다는 듯 바닥에 꼿꼿이 서서 움직이지 않았다.
 
