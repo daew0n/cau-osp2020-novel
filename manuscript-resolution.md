@@ -237,6 +237,10 @@
 
 톰은 순간 놀라 눈이 땡그래졌다.
 
+<!-- 톰이 놀라는 장면 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74240237/100572174-38cb2080-3318-11eb-82ec-fa7de4d1f3db.png" width="50%" height="50%">
+
 ```
 홀홀. 이제야 눈치를 챈 거냐 아가?
 그래 내가 바로 노을 너머 세계에서 소원을 이뤄준다는 마법사란다.
