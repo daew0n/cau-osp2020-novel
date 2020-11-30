@@ -251,6 +251,10 @@
 여행은 즐거웠니?
 ```
 어느덧 자신의 상처가 사라진 것을 깨달은 톰이 말했다.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74407946/100595628-85c1ed80-333e-11eb-8fbe-2a50cba48a12.jpg" width="50%" height="50%">
+ 
 ```
 네! 물론 여행이 정말 힘들었고, 소중한 사람들이 많이 다치기도 했지만...
 엇..? 이마에 제 상처가 사라졌어요!
