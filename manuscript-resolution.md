@@ -936,7 +936,7 @@
 뒤늦게 정신을 차린 톰은 아차 싶었지만 생각 외로 산타 옷이 마음에 들었다.
 
 <!-- 산타 옷이 입혀진 톰 -->
-<p align="center"><img src="https://o.remove.bg/uploads/7b8e3e2b-3228-4e4d-85c4-761388312c5a/%EC%82%B0%ED%83%80%EA%B3%A0%EC%96%91%EC%9D%B4.png" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74265263/100591657-683e5500-3339-11eb-9eb4-d4db21d8bfad.png" width="50%" height="50%">
 
 톰은 따뜻하고 편한 산타 옷을 입고 몇 번 걸어보기도 하고 소파에 배를 드러내고 눕기도 했다.
 창밖으로 보이는 일출.
