@@ -657,7 +657,9 @@
 톰 또한 그들이 사랑하는 가족이라는 것을 뼈저리게 실감하는 순간이었다.
 다행히 톰은 친구 제리와 함께 집에 돌아와 주었고 예전처럼 톰과 평범한 일상을 보낼 수 있어 모두가 더할 나위 없이 행복하다.
 
-![image](https://user-images.githubusercontent.com/74282098/100578145-fe1bb500-3324-11eb-85a6-9bef7febdc0c.png)
+<!-- 톰이 바라보는 구름 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74282098/100578145-fe1bb500-3324-11eb-85a6-9bef7febdc0c.png" width="50%" height="50%">
 
 톰은 창 밖의 구름들을 보며 행복에 젖었다. 
 ```
