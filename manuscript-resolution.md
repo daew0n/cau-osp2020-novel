@@ -695,6 +695,9 @@
 
 창밖에선 하얀 알갱이들이 온 세상에 아름답게 떨어지고 있었다.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74407946/100597731-21ecf400-3341-11eb-92cd-a9423f501f46.jpg" width="50%" height="50%">
+
 ```
 근데 눈이 진짜 많이 왔네.
 ```
