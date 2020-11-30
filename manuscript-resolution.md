@@ -2440,7 +2440,6 @@
 <!-- 잠드는 톰, 마지막장면 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74340048/100544964-9de13080-329c-11eb-8df2-d87ceb79b68d.jpg" width="50%" height="50%">
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74407946/100603756-e524fb00-3348-11eb-818b-1273ef6dbb3d.jpeg" width="50%" height="50%">
 그렇게 일 년이 흐르고 새로운 해를 넘겨 다시 눈이 펑펑 내리는 어느 날이었다. 
 톰은 제리와 함께 새로 입양 온 어린 친구에게 자신의 경험을 이야기해주며 또 다른 겨울을 맞이했다. 
 물론 어린 친구는 노는 것에 더 흥미를 느꼈지만, 그래도 괜찮았다. 
@@ -2499,3 +2498,6 @@
 태어나면서부터 집사에게 보호를 받은 토마스는 톰의 말을 이해할 수는 없었지만, 일단 받아들였다.
 그렇게 톰이 장황한 말을 하고 밥을 먹으러 간 후, 토마스가 남겨진 방의 창문은 강한 바람에 의해 살짝 열린다.
 토마스는 그저 바라본다.
+
+<!--The end-->
+<p align="center"><img src="https://user-images.githubusercontent.com/74407946/100603756-e524fb00-3348-11eb-818b-1273ef6dbb3d.jpeg" width="50%" height="50%">
