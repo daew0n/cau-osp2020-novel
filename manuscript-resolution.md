@@ -1643,6 +1643,9 @@
 
 톰이 포키의 입을 막고 웃어넘겼다.
 
+<!-- 웃으며 포키의 입을 막는 톰-->
+<p align="center"><img src="https://user-images.githubusercontent.com/54145180/100571244-015b7480-3316-11eb-9761-52e8e8c53cec.jpg" width="50%" height="50%">
+
 ```
 하하하, 이렇게 따스한 시간에 그런 농담을 하면 어떡해!
 우리 다 같이 밥이나 먹자.
