@@ -106,7 +106,8 @@
 문이 닫히지 않을 테니 얼른 따라 넘어와!
 ```
 <!--톰에게 문을 넘자고 말하는 제리-->
-![jerry](https://user-images.githubusercontent.com/74413983/100599998-10591b80-3344-11eb-8552-88bc43781734.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74413983/100599998-10591b80-3344-11eb-8552-88bc43781734.jpg" width="50%" height="50%">
 
 제리의 말을 듣고 톰은 생각했다.
 톰에게 간절한 것은 바로 '집사들을 만나는 것' 그리고 '제리와 함께 원래 세계로 다시 돌아가는 것'이었다.
@@ -581,7 +582,8 @@
 그걸 지켜보던 첫째 딸 집사는 톰의 의도를 눈치채고 말했다.
 
 <!--제리를 집에 들여보내라고 말하는 딸-->
-![cartoon-1296501_1280](https://user-images.githubusercontent.com/74413983/100603877-14d40300-3349-11eb-8c23-aad697e0d292.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74413983/100603877-14d40300-3349-11eb-8c23-aad697e0d292.png" width="50%" height="50%">
 
 ```
 엄마, 그 생쥐 톰 친구인 것 같은데 들여보내요!!
@@ -1099,6 +1101,7 @@
 <!--캣닢 장난감을 가지고 노는 톰-->
 <p align="center"> 
 <img src ="https://user-images.githubusercontent.com/74297331/100604259-a0e62a80-3349-11eb-841e-81b06e217e26.JPG" width="50%" height="50%">
+
 ```
 톰! 캣닢 좋지?
 너무 좋아해서 다행이다. 정신이 없네 아주~
