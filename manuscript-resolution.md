@@ -1832,6 +1832,12 @@
 <!-- 트리 주변에서 생각에 빠진 톰 -->
 <p align="center"><img src="https://images.unsplash.com/photo-1605453484393-b75fa48e2124?ixlib=rb-1.2.1&amp;ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80" width="50%" height="50%">
 
+집에서는 아름다운 캐롤이 흘러나온다.
+창 밖에는 어두운 밤에 가로등이 켜져 있고 눈이 펑펑 내린다.
+잭과 미야는 불빛이 흘러나오는 창문을 바라보고 있었다.
+그들은 웃으며 뒤돌아갔다.
+잭과 미야는 이 겨울날 하루를 평생 추억하리라 생각하며 밤길을 둘이서 걸어갔다...
+
 ```
 정말, 따뜻한 겨울이야..
 그리고 생에서 가장 행복한 겨울이야...
