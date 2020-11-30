@@ -2373,6 +2373,7 @@
 톰은 두 집사가 소곤거리는 모습도 사랑스러웠다. 
 톰은 두 집사의 소곤거림에 잠에서 깼다. 
 
+<!--잠에서 깬 톰-->
 <p align="center"><img src="https://user-images.githubusercontent.com/74407946/100601419-e7398a80-3345-11eb-8fd7-48db49c5803a.jpg" width="50%" height="50%">
 
 ```
