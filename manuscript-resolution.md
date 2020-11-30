@@ -2505,6 +2505,10 @@
 ```
 톰과 제리는 함께 창 밖을 바라보았다.
 
+<!-- 창 밖을 바라보는 톰과 제리 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74296224/100612079-b2cdca80-3355-11eb-9d01-fda5976cb6d3.jpg" width="50%" height="50%">
+
 환한 불빛이 켜져 있는 도시 곳곳에서는 캐럴이 울려 퍼지고 있었다.
 ```
 정말 그렇네, 톰.
