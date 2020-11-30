@@ -350,7 +350,11 @@
 ```
 제리... 제리!! 일어나 봐!!
 ```
-톰은 벌떡 일어나 제리를 흔들어 깨웠다. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74407946/100596241-49db5800-333f-11eb-8226-9db182fbfc4b.jpg" width="50%" height="50%">
+
+톰은 벌떡 일어나 제리를 흔들어 깨웠다.
 하지만 제리는 일어나지 못했다.
 ```
 충격이 너무 심했나?
