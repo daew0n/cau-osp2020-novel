@@ -1643,6 +1643,9 @@
 무료한 오후, 노을이 지던 그 날에서 시작한 톰의 하루가 이렇게 아름다운 추억과 행복을 가져다줄지 누가 알았을까? 
 집사의 크리스마스트리와 소중한 친구들 사이에서 톰은 속으로 생각하며 잠이 들었다.
 
+<!-- 트리 주변에서 생각에 빠진 톰 -->
+<p align="center"><img src="https://images.unsplash.com/photo-1605453484393-b75fa48e2124?ixlib=rb-1.2.1&amp;ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80" width="50%" height="50%">
+
 ```
 정말, 따뜻한 겨울이야..
 그리고 인생에서 가장 행복한 겨울이야...
