@@ -1895,6 +1895,9 @@
 미야가 사진 하나를 꺼내서 제리에게 건넸다.
 눈처럼 하얀 털에 까만 눈, 붉은 코를 가진 예쁜 생쥐의 사진이었다.
 
+<!-- 사진을 보는 제리 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/69396299/100586151-09291200-3332-11eb-99fd-c6a29e51f9a1.png" width="50%" height="50%">
+
 ```
 누구야? 진짜 예쁘다! 
 ```
