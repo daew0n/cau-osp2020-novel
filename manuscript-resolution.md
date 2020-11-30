@@ -1930,6 +1930,11 @@
 포키는 자랑스럽다는 듯이 말했다.
 
 톰은 어디서 본 듯한 곰인형의 모습에 의아했지만 이내 웃으며 선물을 받았다.
+
+<!--곰인형을 의아하게 바라보는 톰의 뒷모습-->
+<p align="center"><img src="https://user-images.githubusercontent.com/74256435/100586580-b734bc00-3332-11eb-8ed4-45bb1afdbceb.jpg" width="50%" height="50%">
+
+
 ```
 고마워 포키! 이제 진짜 밥먹자!
 ```
