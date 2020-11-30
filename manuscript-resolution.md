@@ -1778,6 +1778,7 @@
 네가 너무나도 좋은 집사 집에서 가출한 사실을 알았을 땐, 참 복에 겨운 고양이라고 생각했지.
 그런데 나와 달리 끝까지 주변 친구들을 챙기고 나까지 사랑해 주는 걸 보면서, 넌 복을 주는 고양이라는 걸 알았어.
 ```
+<!--눈물을 글썽이는 잭-->
 <p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMzBfOTYg/MDAxNjA2NzA4NzYyNDc4.ZPPGBGYKWM8ZbQj56B14MdiQJy6HpQJFmXStBNZvwOcg.tdLE8CeIxuE00mBaiPqsKSlSM5sfoqnXNXquz0jiWyUg.JPEG.lkm778u/99D040395AF179481A.jpg?type=w966" width="50%" height="50%">
 
 잭이 글썽이는 눈을 마주치며 말했다.
