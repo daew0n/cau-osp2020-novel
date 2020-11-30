@@ -1202,6 +1202,10 @@
 
 <!-- 산타 옷이 입혀진 톰 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74265263/100591657-683e5500-3339-11eb-9eb4-d4db21d8bfad.png" width="50%" height="50%">
+ 
+ <!-- 산타복을 입은 톰 -->
+ <p align="center"><img src="https://user-images.githubusercontent.com/74255823/100619472-88353f00-3360-11eb-998c-e76716831764.jpg" width="50%" height="50%">
+ 
 
 톰은 따뜻하고 편한 산타 옷을 입고 몇 번 걸어보기도 하고 소파에 배를 드러내고 눕기도 했다.
 
