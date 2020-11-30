@@ -936,18 +936,33 @@
 
 둘은 서로를 바라보며 작게 키득거렸다.
 
-집사의 외침에 둘의 훈훈한 대화는 끝이 났다. 
+그때, 꾀죄죄한 몰골의 제리를 한참 들여다보던 집사가 외쳤다.
 
 ```
 안 되겠다, 너희 둘 다 오늘 목욕이야!
 톰, 너도 이리 와!
 ```
 
+집사는 남은 팔로 톰을 번쩍 들어올렸다.
+
+```
+으악! 목욕이라구??
+내가 꾸중은 몰라도 목욕만큼은 백 년이 지나도 그리울 일 없단말이야!!
+날 놔줘!!!
+```
+
+```
+나도!! 나도 마찬가지야!!
+이익! 빨리 내려놔!!
+```
+
+톰과 제리는 집사의 팔에서 빠져나오기 위해 온 힘을 다해 버둥댔다.
+하지만 집사는 능숙하게 둘을 안고 욕실로 발걸음을 옮겼다.
+
 <!-- 서로를 보며 웃는 톰과 제리 -->
 <p align="center">
 <img src="https://postfiles.pstatic.net/MjAyMDExMjZfMjc2/MDAxNjA2Mzg1MTU5MDc1.lro-mie51nbn7BtqO7stJEuXwMv4uMjcMac2GyoM4ogg.RSdtLtSIYDJVqqnhO1OShZnhxXeTqIahhVFpPRtaExsg.JPEG.eunyoungyi/%EA%B2%B0%EB%A7%90_%EC%84%9C%EB%A1%9C%EB%A5%BC_%EB%B3%B4%EB%A9%B0_%EC%9B%83%EB%8A%94_%ED%86%B0%EA%B3%BC%EC%A0%9C%EB%A6%AC.jpg?type=w773" width="50%" height="50%">
 
-집사는 제리와 톰을 번쩍 안아 욕실로 데려갔다.
 욕조에는 따듯한 물이 받아져 있었다.
 
 <!-- 오리 인형이 떠 있는 욕조가 있는 욕실의 모습 -->
