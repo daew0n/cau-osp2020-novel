@@ -314,7 +314,8 @@
 이젠 집사들 곁으로 돌아가서 오늘을 잊지 말고 행복한 사람들과 행복하게 삶을 보내거라.
 ```
 <!-- 눈물이 맺힌 톰-->
-![KakaoTalk_20201130_183428404](https://user-images.githubusercontent.com/74413983/100592927-1e566e80-333b-11eb-8c7b-6d556e098608.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74413983/100592927-1e566e80-333b-11eb-8c7b-6d556e098608.jpg" width="50%" height="50%">
 
 톰의 눈가에 그렁그렁 눈물이 맺혔다.
 노을 너머 세계에서의 추억과 기억들이 떠올라서일까, 집사들 곁으로 돌아갈 수 있다는 생각에서였을까.
