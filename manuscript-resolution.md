@@ -1255,6 +1255,9 @@
 긴 여정에 피로한 온몸을 따듯하게 감싸주는 담요 같았다. 
 <!-- 집사의 손길을 받고 있는 톰 -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74283318/100580704-c95e2c80-3329-11eb-8bad-a88763152adc.jpg" width="50%" height="50%">
+
+<!-- 집사의 손길을 즐기고 있는 톰 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74526474/100583190-b3526b00-332d-11eb-88fa-c54caf9d542d.png" width="70%" height="70%">
  
 ```
 그래 이 손길... 정말 너무 그리웠어... 행복하다 정말...
