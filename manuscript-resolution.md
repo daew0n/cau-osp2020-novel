@@ -2275,6 +2275,10 @@
 원래는 내 먹이가 될 뻔했던 아이인데, 딱 그 전날 톰이 이야기 하던 친구랑 완전 똑같이 생기기도 했고
 그 친구도 너를 아직 그리워하고 있길래 너와 만나게 해준다고 했어.
 ```
+<!-- 먹이가 될 뻔한 상황을 회상하는 잭 -->
+<p align="center"><img src="https://blogfiles.pstatic.net/MjAyMDExMzBfMjcw/MDAxNjA2NzQ0NTEzMzgw.nhJnDUN-TAnbFtG0uVaaPc0HeBqBRcD1YLT0708NWw8g.2A0r8f7eRvtJVwJn4fuzyeG3r3kDGJ7JWwtriJUeXX0g.PNG.warm10216/%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC.png?type=w1" width="50%" height="50%">
+
+
 ```
 먹... 먹이..?
 ```
