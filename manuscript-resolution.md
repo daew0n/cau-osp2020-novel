@@ -1670,6 +1670,9 @@
 졸리운 눈으로 집사들을 마주하고 잠든 제리를 보았다. 
 제리는 치즈를 옆에 둔채로 아주 행복한 표정을 하고 자고있었다. 
 치즈천국에라도 가는 꿈을 꾼 걸까?
+<!-- 자는제리 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74340048/100562148-247a2a00-32fe-11eb-90dd-3bbe50d547e3.jpg" width="50%" height="50%">
+
 <!-- 트리 아래에서 졸고있는 톰 -->
 <p align="center"><img src="https://i.pinimg.com/originals/71/ac/27/71ac27f9dd4ad7e0a8c4b604db93571b.jpg" width="50%" height="50%">
 
