@@ -1386,6 +1386,9 @@
 우리는 널 정말 사랑해 다시는 그러지마. 
 ```
 
+<!-- 제리를 바라보는 톰의 모습 -->
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMDExMzBfMjIz/MDAxNjA2NzI4MTU0NDM0.19V4o35eh17V2bWkki9Ul3hnr1enNP0ixy3QLj2a4SMg.zyzyLG5NdrdZ__Xfj4TxB9RstZqY70tOs5A8rIWViNYg.JPEG.hanariyoung/%EB%86%80%EB%9E%80_%ED%86%B0.jpg?type=w966" width="50%" height="50%">
+ 
 톰과 제리는 집사의 물음에 대답 없이 서로를 바라보며 미소를 지었다. 
 제리는 톰이 지금 얼마나 행복한지 짐작할 수 있었다. 과거 집사들에게 버림받았다며 상처받은 얼굴을 하던 톰은 이제 없었다. 
 톰의 얼굴엔 미소가 가득했고 눈빛은 반짝였으며 마음이 여유로워졌다는 것은 그의 행동으로 알 수 있었다. 
