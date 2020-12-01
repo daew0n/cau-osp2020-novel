@@ -7,7 +7,10 @@
 이 문을 통과할 수 있어.  
 그 간절함만 있다면 원래 세계로 가는 통로가 생기고 너희는 그 길을 걸어가면 돼.  
 ```
-
+<!--웃는 제리-->
+<p align="center"> 
+<img src ="https://user-images.githubusercontent.com/74238817/100690101-2fe65780-33c9-11eb-8f4f-445a05848d04.PNG" width="50%" height="50%">
+ 
 조오커 왕의 말에 제리는 웃으며 말했다.
 
 ```
